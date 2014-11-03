@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <h1><%= title %></h1>
+    <p>Welcome to <%= title %></p>
+  </body>
+
+  <button onclick="socket.emit('client', { my: 'data' });">发送信息</button>
+
+
+  <script src="https://cdn.socket.io/socket.io-1.2.0.js"></script>
+  <script type="text/javascript">
+      var socket = io();
+
+      //接受服务器推送信息
+      socket.on('news', function (data) {
+          console.log(data);
+      });
+  </script>
+</html>

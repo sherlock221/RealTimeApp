@@ -1,0 +1,1484 @@
+[2014-11-03 23:27:12.425] [INFO] console - development
+[2014-11-03 23:27:12.433] [INFO] console - h5team  listening on port 3000
+[2014-11-03 23:30:56.366] [INFO] console - development
+[2014-11-03 23:30:56.373] [INFO] console - h5team  listening on port 3000
+[2014-11-03 23:31:18.613] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:31:18.613] [INFO] console - param  :  {}
+[2014-11-03 23:31:18.614] [INFO] console - get :  {}
+[2014-11-03 23:31:18.614] [INFO] console - post :  {}
+[2014-11-03 23:31:18.625] [INFO] normal - GET /
+[2014-11-03 23:31:18.658] [WARN] normal - GET /stylesheets/style.css
+[2014-11-03 23:31:18.841] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:31:18.842] [INFO] console - param  :  {}
+[2014-11-03 23:31:18.842] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028678833-0' }
+[2014-11-03 23:31:18.843] [INFO] console - post :  {}
+[2014-11-03 23:31:18.847] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:31:18.848] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028678833-0
+[2014-11-03 23:31:19.861] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:31:19.861] [INFO] console - param  :  {}
+[2014-11-03 23:31:19.862] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028679856-1' }
+[2014-11-03 23:31:19.862] [INFO] console - post :  {}
+[2014-11-03 23:31:19.863] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:31:19.864] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028679856-1
+[2014-11-03 23:31:21.874] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:31:21.874] [INFO] console - param  :  {}
+[2014-11-03 23:31:21.875] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028681870-2' }
+[2014-11-03 23:31:21.875] [INFO] console - post :  {}
+[2014-11-03 23:31:21.876] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:31:21.876] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028681870-2
+[2014-11-03 23:31:24.884] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:31:24.884] [INFO] console - param  :  {}
+[2014-11-03 23:31:24.884] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028684881-3' }
+[2014-11-03 23:31:24.885] [INFO] console - post :  {}
+[2014-11-03 23:31:24.885] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:31:24.886] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028684881-3
+[2014-11-03 23:31:28.895] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:31:28.895] [INFO] console - param  :  {}
+[2014-11-03 23:31:28.896] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028688891-4' }
+[2014-11-03 23:31:28.896] [INFO] console - post :  {}
+[2014-11-03 23:31:28.897] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:31:28.897] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028688891-4
+[2014-11-03 23:31:33.905] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:31:33.905] [INFO] console - param  :  {}
+[2014-11-03 23:31:33.905] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028693902-5' }
+[2014-11-03 23:31:33.906] [INFO] console - post :  {}
+[2014-11-03 23:31:33.906] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:31:33.908] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028693902-5
+[2014-11-03 23:31:38.916] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:31:38.916] [INFO] console - param  :  {}
+[2014-11-03 23:31:38.917] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028698912-6' }
+[2014-11-03 23:31:38.917] [INFO] console - post :  {}
+[2014-11-03 23:31:38.919] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:31:38.919] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028698912-6
+[2014-11-03 23:31:43.927] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:31:43.927] [INFO] console - param  :  {}
+[2014-11-03 23:31:43.927] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028703924-7' }
+[2014-11-03 23:31:43.928] [INFO] console - post :  {}
+[2014-11-03 23:31:43.929] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:31:43.929] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028703924-7
+[2014-11-03 23:31:48.938] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:31:48.938] [INFO] console - param  :  {}
+[2014-11-03 23:31:48.939] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028708934-8' }
+[2014-11-03 23:31:48.939] [INFO] console - post :  {}
+[2014-11-03 23:31:48.941] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:31:48.942] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028708934-8
+[2014-11-03 23:31:53.950] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:31:53.950] [INFO] console - param  :  {}
+[2014-11-03 23:31:53.950] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028713946-9' }
+[2014-11-03 23:31:53.950] [INFO] console - post :  {}
+[2014-11-03 23:31:53.953] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:31:53.953] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028713946-9
+[2014-11-03 23:31:58.961] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:31:58.961] [INFO] console - param  :  {}
+[2014-11-03 23:31:58.961] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028718958-10' }
+[2014-11-03 23:31:58.961] [INFO] console - post :  {}
+[2014-11-03 23:31:58.963] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:31:58.963] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028718958-10
+[2014-11-03 23:32:03.971] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:32:03.972] [INFO] console - param  :  {}
+[2014-11-03 23:32:03.972] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028723968-11' }
+[2014-11-03 23:32:03.972] [INFO] console - post :  {}
+[2014-11-03 23:32:03.974] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:32:03.974] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028723968-11
+[2014-11-03 23:32:05.210] [WARN] normal - GET /stylesheets/style.css
+[2014-11-03 23:32:08.982] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:32:08.983] [INFO] console - param  :  {}
+[2014-11-03 23:32:08.983] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028728979-12' }
+[2014-11-03 23:32:08.983] [INFO] console - post :  {}
+[2014-11-03 23:32:08.984] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:32:08.984] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028728979-12
+[2014-11-03 23:32:13.993] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:32:13.994] [INFO] console - param  :  {}
+[2014-11-03 23:32:13.994] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028733989-13' }
+[2014-11-03 23:32:13.994] [INFO] console - post :  {}
+[2014-11-03 23:32:13.996] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:32:13.997] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028733989-13
+[2014-11-03 23:32:19.006] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:32:19.006] [INFO] console - param  :  {}
+[2014-11-03 23:32:19.006] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028739003-14' }
+[2014-11-03 23:32:19.007] [INFO] console - post :  {}
+[2014-11-03 23:32:19.008] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:32:19.008] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028739003-14
+[2014-11-03 23:32:24.017] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:32:24.017] [INFO] console - param  :  {}
+[2014-11-03 23:32:24.017] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028744015-15' }
+[2014-11-03 23:32:24.018] [INFO] console - post :  {}
+[2014-11-03 23:32:24.019] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:32:24.020] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028744015-15
+[2014-11-03 23:32:29.028] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:32:29.028] [INFO] console - param  :  {}
+[2014-11-03 23:32:29.028] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028749025-16' }
+[2014-11-03 23:32:29.028] [INFO] console - post :  {}
+[2014-11-03 23:32:29.029] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:32:29.030] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028749025-16
+[2014-11-03 23:32:34.038] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:32:34.039] [INFO] console - param  :  {}
+[2014-11-03 23:32:34.039] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028754036-17' }
+[2014-11-03 23:32:34.039] [INFO] console - post :  {}
+[2014-11-03 23:32:34.040] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:32:34.040] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028754036-17
+[2014-11-03 23:32:39.050] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:32:39.050] [INFO] console - param  :  {}
+[2014-11-03 23:32:39.050] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028759046-18' }
+[2014-11-03 23:32:39.050] [INFO] console - post :  {}
+[2014-11-03 23:32:39.051] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:32:39.051] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028759046-18
+[2014-11-03 23:32:44.060] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:32:44.061] [INFO] console - param  :  {}
+[2014-11-03 23:32:44.061] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028764057-19' }
+[2014-11-03 23:32:44.061] [INFO] console - post :  {}
+[2014-11-03 23:32:44.062] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:32:44.062] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028764057-19
+[2014-11-03 23:32:49.072] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:32:49.072] [INFO] console - param  :  {}
+[2014-11-03 23:32:49.072] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028769070-20' }
+[2014-11-03 23:32:49.073] [INFO] console - post :  {}
+[2014-11-03 23:32:49.074] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:32:49.075] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028769070-20
+[2014-11-03 23:32:54.084] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:32:54.085] [INFO] console - param  :  {}
+[2014-11-03 23:32:54.085] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028774081-21' }
+[2014-11-03 23:32:54.085] [INFO] console - post :  {}
+[2014-11-03 23:32:54.089] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:32:54.089] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028774081-21
+[2014-11-03 23:32:59.097] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:32:59.097] [INFO] console - param  :  {}
+[2014-11-03 23:32:59.098] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028779094-22' }
+[2014-11-03 23:32:59.098] [INFO] console - post :  {}
+[2014-11-03 23:32:59.099] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:32:59.100] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028779094-22
+[2014-11-03 23:33:04.108] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:33:04.108] [INFO] console - param  :  {}
+[2014-11-03 23:33:04.109] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028784106-23' }
+[2014-11-03 23:33:04.109] [INFO] console - post :  {}
+[2014-11-03 23:33:04.110] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:33:04.110] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028784106-23
+[2014-11-03 23:33:09.118] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:33:09.118] [INFO] console - param  :  {}
+[2014-11-03 23:33:09.118] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028789116-24' }
+[2014-11-03 23:33:09.119] [INFO] console - post :  {}
+[2014-11-03 23:33:09.119] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:33:09.120] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028789116-24
+[2014-11-03 23:33:14.129] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:33:14.129] [INFO] console - param  :  {}
+[2014-11-03 23:33:14.129] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028794127-25' }
+[2014-11-03 23:33:14.130] [INFO] console - post :  {}
+[2014-11-03 23:33:14.131] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:33:14.131] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028794127-25
+[2014-11-03 23:33:19.140] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:33:19.140] [INFO] console - param  :  {}
+[2014-11-03 23:33:19.140] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028799137-26' }
+[2014-11-03 23:33:19.153] [INFO] console - post :  {}
+[2014-11-03 23:33:19.154] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:33:19.154] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028799137-26
+[2014-11-03 23:33:24.163] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:33:24.164] [INFO] console - param  :  {}
+[2014-11-03 23:33:24.164] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028804161-27' }
+[2014-11-03 23:33:24.164] [INFO] console - post :  {}
+[2014-11-03 23:33:24.165] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:33:24.166] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028804161-27
+[2014-11-03 23:33:29.175] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:33:29.175] [INFO] console - param  :  {}
+[2014-11-03 23:33:29.176] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028809173-28' }
+[2014-11-03 23:33:29.176] [INFO] console - post :  {}
+[2014-11-03 23:33:29.177] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:33:29.177] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028809173-28
+[2014-11-03 23:33:34.188] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:33:34.188] [INFO] console - param  :  {}
+[2014-11-03 23:33:34.188] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028814185-29' }
+[2014-11-03 23:33:34.189] [INFO] console - post :  {}
+[2014-11-03 23:33:34.189] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:33:34.190] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028814185-29
+[2014-11-03 23:33:39.198] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:33:39.199] [INFO] console - param  :  {}
+[2014-11-03 23:33:39.199] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028819196-30' }
+[2014-11-03 23:33:39.199] [INFO] console - post :  {}
+[2014-11-03 23:33:39.200] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:33:39.200] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028819196-30
+[2014-11-03 23:33:44.208] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:33:44.208] [INFO] console - param  :  {}
+[2014-11-03 23:33:44.210] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028824206-31' }
+[2014-11-03 23:33:44.211] [INFO] console - post :  {}
+[2014-11-03 23:33:44.217] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:33:44.218] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028824206-31
+[2014-11-03 23:33:49.226] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:33:49.227] [INFO] console - param  :  {}
+[2014-11-03 23:33:49.227] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028829223-32' }
+[2014-11-03 23:33:49.228] [INFO] console - post :  {}
+[2014-11-03 23:33:49.229] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:33:49.230] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028829223-32
+[2014-11-03 23:33:54.239] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:33:54.239] [INFO] console - param  :  {}
+[2014-11-03 23:33:54.239] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028834236-33' }
+[2014-11-03 23:33:54.241] [INFO] console - post :  {}
+[2014-11-03 23:33:54.241] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:33:54.242] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028834236-33
+[2014-11-03 23:33:59.288] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:33:59.288] [INFO] console - param  :  {}
+[2014-11-03 23:33:59.288] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028839283-34' }
+[2014-11-03 23:33:59.289] [INFO] console - post :  {}
+[2014-11-03 23:33:59.290] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:33:59.291] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028839283-34
+[2014-11-03 23:34:05.286] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:34:05.286] [INFO] console - param  :  {}
+[2014-11-03 23:34:05.287] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028845283-35' }
+[2014-11-03 23:34:05.287] [INFO] console - post :  {}
+[2014-11-03 23:34:05.288] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:34:05.288] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028845283-35
+[2014-11-03 23:34:11.287] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:34:11.287] [INFO] console - param  :  {}
+[2014-11-03 23:34:11.287] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028851283-36' }
+[2014-11-03 23:34:11.287] [INFO] console - post :  {}
+[2014-11-03 23:34:11.288] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:34:11.289] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028851283-36
+[2014-11-03 23:34:17.287] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:34:17.287] [INFO] console - param  :  {}
+[2014-11-03 23:34:17.287] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028857284-37' }
+[2014-11-03 23:34:17.288] [INFO] console - post :  {}
+[2014-11-03 23:34:17.289] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:34:17.289] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028857284-37
+[2014-11-03 23:34:23.286] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:34:23.286] [INFO] console - param  :  {}
+[2014-11-03 23:34:23.286] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028863282-38' }
+[2014-11-03 23:34:23.286] [INFO] console - post :  {}
+[2014-11-03 23:34:23.287] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:34:23.288] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028863282-38
+[2014-11-03 23:34:29.286] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:34:29.286] [INFO] console - param  :  {}
+[2014-11-03 23:34:29.286] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028869281-39' }
+[2014-11-03 23:34:29.287] [INFO] console - post :  {}
+[2014-11-03 23:34:29.289] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:34:29.290] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028869281-39
+[2014-11-03 23:34:35.286] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:34:35.286] [INFO] console - param  :  {}
+[2014-11-03 23:34:35.286] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028875281-40' }
+[2014-11-03 23:34:35.287] [INFO] console - post :  {}
+[2014-11-03 23:34:35.287] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:34:35.289] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028875281-40
+[2014-11-03 23:34:41.287] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:34:41.287] [INFO] console - param  :  {}
+[2014-11-03 23:34:41.287] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028881282-41' }
+[2014-11-03 23:34:41.288] [INFO] console - post :  {}
+[2014-11-03 23:34:41.288] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:34:41.289] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028881282-41
+[2014-11-03 23:34:47.288] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:34:47.288] [INFO] console - param  :  {}
+[2014-11-03 23:34:47.288] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028887282-42' }
+[2014-11-03 23:34:47.288] [INFO] console - post :  {}
+[2014-11-03 23:34:47.289] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:34:47.290] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028887282-42
+[2014-11-03 23:34:53.288] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:34:53.288] [INFO] console - param  :  {}
+[2014-11-03 23:34:53.288] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028893282-43' }
+[2014-11-03 23:34:53.288] [INFO] console - post :  {}
+[2014-11-03 23:34:53.289] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:34:53.289] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028893282-43
+[2014-11-03 23:34:59.287] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:34:59.287] [INFO] console - param  :  {}
+[2014-11-03 23:34:59.287] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028899282-44' }
+[2014-11-03 23:34:59.287] [INFO] console - post :  {}
+[2014-11-03 23:34:59.288] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:34:59.288] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028899282-44
+[2014-11-03 23:35:05.286] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:35:05.286] [INFO] console - param  :  {}
+[2014-11-03 23:35:05.286] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028905282-45' }
+[2014-11-03 23:35:05.286] [INFO] console - post :  {}
+[2014-11-03 23:35:05.287] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:35:05.288] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028905282-45
+[2014-11-03 23:35:11.044] [INFO] console - development
+[2014-11-03 23:35:11.050] [INFO] console - h5team  listening on port 3000
+[2014-11-03 23:35:11.742] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:35:11.742] [INFO] console - param  :  {}
+[2014-11-03 23:35:11.743] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028911283-46' }
+[2014-11-03 23:35:11.744] [INFO] console - post :  {}
+[2014-11-03 23:35:11.751] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:35:11.754] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028911283-46
+[2014-11-03 23:35:17.288] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:35:17.288] [INFO] console - param  :  {}
+[2014-11-03 23:35:17.288] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028917281-47' }
+[2014-11-03 23:35:17.288] [INFO] console - post :  {}
+[2014-11-03 23:35:17.290] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:35:17.290] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028917281-47
+[2014-11-03 23:35:23.287] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:35:23.287] [INFO] console - param  :  {}
+[2014-11-03 23:35:23.288] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028923284-48' }
+[2014-11-03 23:35:23.288] [INFO] console - post :  {}
+[2014-11-03 23:35:23.289] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:35:23.290] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028923284-48
+[2014-11-03 23:35:27.043] [INFO] console - development
+[2014-11-03 23:35:27.050] [INFO] console - h5team  listening on port 3000
+[2014-11-03 23:35:28.758] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:35:28.758] [INFO] console - param  :  {}
+[2014-11-03 23:35:28.759] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028928296-49' }
+[2014-11-03 23:35:28.761] [INFO] console - post :  {}
+[2014-11-03 23:35:28.770] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:35:28.779] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028928296-49
+[2014-11-03 23:35:29.344] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:35:29.344] [INFO] console - param  :  {}
+[2014-11-03 23:35:29.344] [INFO] console - get :  {}
+[2014-11-03 23:35:29.344] [INFO] console - post :  {}
+[2014-11-03 23:35:29.348] [WARN] normal - GET /
+[2014-11-03 23:35:29.375] [WARN] normal - GET /stylesheets/style.css
+[2014-11-03 23:35:30.141] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:35:30.141] [INFO] console - param  :  {}
+[2014-11-03 23:35:30.141] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028930139-0' }
+[2014-11-03 23:35:30.142] [INFO] console - post :  {}
+[2014-11-03 23:35:30.146] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:35:30.147] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028930139-0
+[2014-11-03 23:35:31.171] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:35:31.171] [INFO] console - param  :  {}
+[2014-11-03 23:35:31.171] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028931169-1' }
+[2014-11-03 23:35:31.171] [INFO] console - post :  {}
+[2014-11-03 23:35:31.172] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:35:31.173] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028931169-1
+[2014-11-03 23:35:33.182] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:35:33.182] [INFO] console - param  :  {}
+[2014-11-03 23:35:33.182] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028933181-2' }
+[2014-11-03 23:35:33.182] [INFO] console - post :  {}
+[2014-11-03 23:35:33.183] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:35:33.184] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028933181-2
+[2014-11-03 23:35:36.192] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:35:36.193] [INFO] console - param  :  {}
+[2014-11-03 23:35:36.193] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028936191-3' }
+[2014-11-03 23:35:36.193] [INFO] console - post :  {}
+[2014-11-03 23:35:36.194] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:35:36.194] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028936191-3
+[2014-11-03 23:35:39.780] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:35:39.780] [INFO] console - param  :  {}
+[2014-11-03 23:35:39.780] [INFO] console - get :  {}
+[2014-11-03 23:35:39.780] [INFO] console - post :  {}
+[2014-11-03 23:35:39.782] [WARN] normal - GET /
+[2014-11-03 23:35:39.806] [WARN] normal - GET /stylesheets/style.css
+[2014-11-03 23:35:48.154] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:35:48.154] [INFO] console - param  :  {}
+[2014-11-03 23:35:48.154] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028948151-0' }
+[2014-11-03 23:35:48.154] [INFO] console - post :  {}
+[2014-11-03 23:35:48.155] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:35:48.156] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028948151-0
+[2014-11-03 23:36:27.374] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:36:27.374] [INFO] console - param  :  {}
+[2014-11-03 23:36:27.374] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028987371-1' }
+[2014-11-03 23:36:27.374] [INFO] console - post :  {}
+[2014-11-03 23:36:27.376] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:36:27.376] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028987371-1
+[2014-11-03 23:36:30.287] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:36:30.287] [INFO] console - param  :  {}
+[2014-11-03 23:36:30.287] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028990283-2' }
+[2014-11-03 23:36:30.287] [INFO] console - post :  {}
+[2014-11-03 23:36:30.289] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:36:30.289] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028990283-2
+[2014-11-03 23:36:34.287] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:36:34.288] [INFO] console - param  :  {}
+[2014-11-03 23:36:34.288] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028994283-3' }
+[2014-11-03 23:36:34.288] [INFO] console - post :  {}
+[2014-11-03 23:36:34.290] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:36:34.291] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028994283-3
+[2014-11-03 23:36:39.287] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:36:39.287] [INFO] console - param  :  {}
+[2014-11-03 23:36:39.287] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415028999284-4' }
+[2014-11-03 23:36:39.287] [INFO] console - post :  {}
+[2014-11-03 23:36:39.288] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:36:39.289] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415028999284-4
+[2014-11-03 23:36:45.285] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:36:45.286] [INFO] console - param  :  {}
+[2014-11-03 23:36:45.286] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415029005283-5' }
+[2014-11-03 23:36:45.286] [INFO] console - post :  {}
+[2014-11-03 23:36:45.288] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:36:45.288] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415029005283-5
+[2014-11-03 23:36:51.286] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:36:51.286] [INFO] console - param  :  {}
+[2014-11-03 23:36:51.286] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415029011283-6' }
+[2014-11-03 23:36:51.286] [INFO] console - post :  {}
+[2014-11-03 23:36:51.287] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:36:51.288] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415029011283-6
+[2014-11-03 23:36:57.287] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:36:57.287] [INFO] console - param  :  {}
+[2014-11-03 23:36:57.288] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415029017284-7' }
+[2014-11-03 23:36:57.288] [INFO] console - post :  {}
+[2014-11-03 23:36:57.292] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:36:57.292] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415029017284-7
+[2014-11-03 23:37:03.286] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:37:03.286] [INFO] console - param  :  {}
+[2014-11-03 23:37:03.286] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415029023283-8' }
+[2014-11-03 23:37:03.286] [INFO] console - post :  {}
+[2014-11-03 23:37:03.288] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:37:03.289] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415029023283-8
+[2014-11-03 23:37:09.286] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:37:09.286] [INFO] console - param  :  {}
+[2014-11-03 23:37:09.286] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415029029283-9' }
+[2014-11-03 23:37:09.287] [INFO] console - post :  {}
+[2014-11-03 23:37:09.289] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:37:09.290] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415029029283-9
+[2014-11-03 23:37:15.286] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:37:15.286] [INFO] console - param  :  {}
+[2014-11-03 23:37:15.286] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415029035283-10' }
+[2014-11-03 23:37:15.286] [INFO] console - post :  {}
+[2014-11-03 23:37:15.288] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:37:15.288] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415029035283-10
+[2014-11-03 23:37:21.285] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:37:21.285] [INFO] console - param  :  {}
+[2014-11-03 23:37:21.286] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415029041283-11' }
+[2014-11-03 23:37:21.286] [INFO] console - post :  {}
+[2014-11-03 23:37:21.287] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:37:21.287] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415029041283-11
+[2014-11-03 23:37:27.289] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:37:27.289] [INFO] console - param  :  {}
+[2014-11-03 23:37:27.289] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415029047285-12' }
+[2014-11-03 23:37:27.289] [INFO] console - post :  {}
+[2014-11-03 23:37:27.290] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:37:27.291] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415029047285-12
+[2014-11-03 23:37:31.334] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:37:31.334] [INFO] console - param  :  {}
+[2014-11-03 23:37:31.334] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415029029283-9' }
+[2014-11-03 23:37:31.335] [INFO] console - post :  {}
+[2014-11-03 23:37:31.336] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:37:31.336] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415029029283-9
+[2014-11-03 23:37:33.285] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:37:33.285] [INFO] console - param  :  {}
+[2014-11-03 23:37:33.285] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415029053282-13' }
+[2014-11-03 23:37:33.286] [INFO] console - post :  {}
+[2014-11-03 23:37:33.288] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:37:33.288] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415029053282-13
+[2014-11-03 23:37:39.285] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:37:39.286] [INFO] console - param  :  {}
+[2014-11-03 23:37:39.286] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415029059283-14' }
+[2014-11-03 23:37:39.286] [INFO] console - post :  {}
+[2014-11-03 23:37:39.287] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:37:39.287] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415029059283-14
+[2014-11-03 23:37:45.287] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:37:45.287] [INFO] console - param  :  {}
+[2014-11-03 23:37:45.287] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415029065283-15' }
+[2014-11-03 23:37:45.288] [INFO] console - post :  {}
+[2014-11-03 23:37:45.289] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:37:45.290] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415029065283-15
+[2014-11-03 23:37:51.286] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:37:51.286] [INFO] console - param  :  {}
+[2014-11-03 23:37:51.286] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415029071283-16' }
+[2014-11-03 23:37:51.286] [INFO] console - post :  {}
+[2014-11-03 23:37:51.287] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:37:51.288] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415029071283-16
+[2014-11-03 23:38:48.007] [INFO] console - development
+[2014-11-03 23:39:11.923] [INFO] console - h5team  listening on port 3000
+[2014-11-03 23:39:12.076] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:39:12.077] [INFO] console - param  :  {}
+[2014-11-03 23:39:12.077] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415029141283-25' }
+[2014-11-03 23:39:12.078] [INFO] console - post :  {}
+[2014-11-03 23:39:12.085] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at proto.handle.c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:39:12.086] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415029141283-25
+[2014-11-03 23:39:17.287] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:39:17.287] [INFO] console - param  :  {}
+[2014-11-03 23:39:17.287] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415029157282-26' }
+[2014-11-03 23:39:17.288] [INFO] console - post :  {}
+[2014-11-03 23:39:17.290] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at proto.handle.c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:39:17.291] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415029157282-26
+[2014-11-03 23:39:23.285] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:39:23.285] [INFO] console - param  :  {}
+[2014-11-03 23:39:23.285] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415029163282-27' }
+[2014-11-03 23:39:23.285] [INFO] console - post :  {}
+[2014-11-03 23:39:23.287] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at proto.handle.c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:39:23.288] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415029163282-27
+[2014-11-03 23:39:29.286] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:39:29.286] [INFO] console - param  :  {}
+[2014-11-03 23:39:29.286] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415029169282-28' }
+[2014-11-03 23:39:29.286] [INFO] console - post :  {}
+[2014-11-03 23:39:29.289] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at proto.handle.c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:39:29.290] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415029169282-28
+[2014-11-03 23:39:35.286] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:39:35.286] [INFO] console - param  :  {}
+[2014-11-03 23:39:35.286] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415029175284-29' }
+[2014-11-03 23:39:35.286] [INFO] console - post :  {}
+[2014-11-03 23:39:35.288] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at proto.handle.c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:39:35.289] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415029175284-29
+[2014-11-03 23:39:41.286] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:39:41.286] [INFO] console - param  :  {}
+[2014-11-03 23:39:41.286] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415029181283-30' }
+[2014-11-03 23:39:41.286] [INFO] console - post :  {}
+[2014-11-03 23:39:41.288] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at proto.handle.c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:39:41.288] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415029181283-30
+[2014-11-03 23:39:47.287] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:39:47.287] [INFO] console - param  :  {}
+[2014-11-03 23:39:47.287] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415029187284-31' }
+[2014-11-03 23:39:47.287] [INFO] console - post :  {}
+[2014-11-03 23:39:47.289] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at proto.handle.c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:39:47.290] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415029187284-31
+[2014-11-03 23:39:53.287] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:39:53.287] [INFO] console - param  :  {}
+[2014-11-03 23:39:53.287] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415029193283-32' }
+[2014-11-03 23:39:53.287] [INFO] console - post :  {}
+[2014-11-03 23:39:53.289] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at proto.handle.c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:39:53.290] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415029193283-32
+[2014-11-03 23:39:59.287] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:39:59.287] [INFO] console - param  :  {}
+[2014-11-03 23:39:59.287] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415029199283-33' }
+[2014-11-03 23:39:59.287] [INFO] console - post :  {}
+[2014-11-03 23:39:59.290] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at proto.handle.c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:39:59.290] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415029199283-33
+[2014-11-03 23:40:05.287] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:40:05.287] [INFO] console - param  :  {}
+[2014-11-03 23:40:05.287] [INFO] console - get :  { EIO: '3', transport: 'polling', t: '1415029205284-34' }
+[2014-11-03 23:40:05.287] [INFO] console - post :  {}
+[2014-11-03 23:40:05.289] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (C:\work\RealTimeApp\app.js:48:15)
+    at trim_prefix (C:\work\node_modules\express\lib\router\index.js:226:17)
+    at proto.handle.c (C:\work\node_modules\express\lib\router\index.js:198:9)
+    at Function.proto.process_params (C:\work\node_modules\express\lib\router\index.js:251:12)
+    at next (C:\work\node_modules\express\lib\router\index.js:189:19)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at next (C:\work\node_modules\express\lib\router\index.js:150:14)
+    at next (C:\work\node_modules\express\lib\router\index.js:166:38)
+    at Function.proto.handle (C:\work\node_modules\express\lib\router\index.js:234:5)
+    at Layer.router (C:\work\node_modules\express\lib\router\index.js:23:12)
+[2014-11-03 23:40:05.290] [ERROR] normal - GET /socket.io/?EIO=3&transport=polling&t=1415029205284-34
+[2014-11-03 23:40:09.574] [INFO] console - development
+[2014-11-03 23:40:10.339] [INFO] console - h5team  listening on port 3000
+[2014-11-03 23:40:11.737] [INFO] console - a user connected
+[2014-11-03 23:40:20.671] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:40:20.672] [INFO] console - param  :  {}
+[2014-11-03 23:40:20.673] [INFO] console - get :  {}
+[2014-11-03 23:40:20.673] [INFO] console - post :  {}
+[2014-11-03 23:40:20.681] [WARN] normal - GET /
+[2014-11-03 23:40:20.710] [WARN] normal - GET /stylesheets/style.css
+[2014-11-03 23:40:22.353] [INFO] console - a user connected
+[2014-11-03 23:40:27.917] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:40:27.917] [INFO] console - param  :  {}
+[2014-11-03 23:40:27.917] [INFO] console - get :  {}
+[2014-11-03 23:40:27.918] [INFO] console - post :  {}
+[2014-11-03 23:40:27.922] [WARN] normal - GET /
+[2014-11-03 23:40:27.949] [WARN] normal - GET /stylesheets/style.css
+[2014-11-03 23:40:28.191] [INFO] console - a user connected
+[2014-11-03 23:40:42.649] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:40:42.649] [INFO] console - param  :  {}
+[2014-11-03 23:40:42.649] [INFO] console - get :  {}
+[2014-11-03 23:40:42.649] [INFO] console - post :  {}
+[2014-11-03 23:40:42.652] [WARN] normal - GET /
+[2014-11-03 23:40:42.676] [WARN] normal - GET /stylesheets/style.css
+[2014-11-03 23:40:43.781] [INFO] console - a user connected
+[2014-11-03 23:51:07.713] [INFO] console - development
+[2014-11-03 23:51:08.487] [INFO] console - h5team  listening on port 3000
+[2014-11-03 23:51:57.732] [INFO] console - development
+[2014-11-03 23:51:58.508] [INFO] console - h5team  listening on port 3000
+[2014-11-03 23:52:01.742] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:52:01.742] [INFO] console - param  :  {}
+[2014-11-03 23:52:01.743] [INFO] console - get :  {}
+[2014-11-03 23:52:01.743] [INFO] console - post :  {}
+[2014-11-03 23:52:01.751] [INFO] normal - GET /
+[2014-11-03 23:52:01.775] [WARN] normal - GET /stylesheets/style.css
+[2014-11-03 23:52:02.351] [INFO] console - { my: 'data' }
+[2014-11-03 23:54:58.042] [INFO] console - development
+[2014-11-03 23:54:58.814] [INFO] console - h5team  listening on port 3000
+[2014-11-03 23:55:06.608] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:55:06.609] [INFO] console - param  :  {}
+[2014-11-03 23:55:06.610] [INFO] console - get :  {}
+[2014-11-03 23:55:06.610] [INFO] console - post :  {}
+[2014-11-03 23:55:06.618] [INFO] normal - GET /
+[2014-11-03 23:55:06.646] [WARN] normal - GET /stylesheets/style.css
+[2014-11-03 23:55:10.452] [INFO] console - { my: 'data' }
+[2014-11-03 23:55:52.867] [INFO] console - development
+[2014-11-03 23:55:53.619] [INFO] console - h5team  listening on port 3000
+[2014-11-03 23:56:25.867] [INFO] console - development
+[2014-11-03 23:56:26.621] [INFO] console - h5team  listening on port 3000
+[2014-11-03 23:56:28.871] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:56:28.871] [INFO] console - param  :  {}
+[2014-11-03 23:56:28.872] [INFO] console - get :  {}
+[2014-11-03 23:56:28.872] [INFO] console - post :  {}
+[2014-11-03 23:56:28.879] [INFO] normal - GET /
+[2014-11-03 23:56:28.904] [WARN] normal - GET /stylesheets/style.css
+[2014-11-03 23:56:31.193] [INFO] console - { my: 'data' }
+[2014-11-03 23:56:45.105] [INFO] console - { my: 'data' }
+[2014-11-03 23:56:55.954] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:56:55.954] [INFO] console - param  :  {}
+[2014-11-03 23:56:55.954] [INFO] console - get :  {}
+[2014-11-03 23:56:55.954] [INFO] console - post :  {}
+[2014-11-03 23:56:55.958] [INFO] normal - GET /
+[2014-11-03 23:56:55.968] [INFO] normal - GET /stylesheets/style.css
+[2014-11-03 23:56:58.029] [INFO] normal - GET /favicon.ico
+[2014-11-03 23:57:01.213] [INFO] console - { my: 'data' }
+[2014-11-03 23:57:14.508] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:57:14.508] [INFO] console - param  :  {}
+[2014-11-03 23:57:14.508] [INFO] console - get :  {}
+[2014-11-03 23:57:14.508] [INFO] console - post :  {}
+[2014-11-03 23:57:14.512] [INFO] normal - GET /
+[2014-11-03 23:57:14.531] [INFO] normal - GET /stylesheets/style.css
+[2014-11-03 23:57:17.003] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:57:17.004] [INFO] console - param  :  {}
+[2014-11-03 23:57:17.004] [INFO] console - get :  {}
+[2014-11-03 23:57:17.004] [INFO] console - post :  {}
+[2014-11-03 23:57:17.008] [INFO] normal - GET /
+[2014-11-03 23:57:17.024] [INFO] normal - GET /stylesheets/style.css
+[2014-11-03 23:57:28.481] [INFO] console - { my: 'data' }
+[2014-11-03 23:57:31.784] [INFO] console - { my: 'data' }
+[2014-11-03 23:57:57.131] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:57:57.132] [INFO] console - param  :  {}
+[2014-11-03 23:57:57.132] [INFO] console - get :  {}
+[2014-11-03 23:57:57.132] [INFO] console - post :  {}
+[2014-11-03 23:57:57.136] [INFO] normal - GET /
+[2014-11-03 23:57:57.152] [INFO] normal - GET /stylesheets/style.css
+[2014-11-03 23:58:05.382] [INFO] console - { my: 'data' }
+[2014-11-03 23:58:08.236] [INFO] console - { my: 'data' }
+[2014-11-03 23:58:09.636] [INFO] console - { my: 'data' }
+[2014-11-03 23:58:13.173] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:58:13.173] [INFO] console - param  :  {}
+[2014-11-03 23:58:13.173] [INFO] console - get :  {}
+[2014-11-03 23:58:13.174] [INFO] console - post :  {}
+[2014-11-03 23:58:13.177] [INFO] normal - GET /
+[2014-11-03 23:58:13.187] [INFO] normal - GET /stylesheets/style.css
+[2014-11-03 23:58:14.332] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:58:14.333] [INFO] console - param  :  {}
+[2014-11-03 23:58:14.333] [INFO] console - get :  {}
+[2014-11-03 23:58:14.333] [INFO] console - post :  {}
+[2014-11-03 23:58:14.336] [INFO] normal - GET /
+[2014-11-03 23:58:14.350] [INFO] normal - GET /stylesheets/style.css
+[2014-11-03 23:58:27.764] [WARN] console - http参数显示功能开启...
+[2014-11-03 23:58:27.765] [INFO] console - param  :  {}
+[2014-11-03 23:58:27.765] [INFO] console - get :  {}
+[2014-11-03 23:58:27.765] [INFO] console - post :  {}
+[2014-11-03 23:58:27.768] [WARN] normal - GET /
+[2014-11-04 00:01:08.072] [INFO] console - development
+[2014-11-04 00:01:08.835] [INFO] console - h5team  listening on port 3000
+[2014-11-04 00:01:13.313] [WARN] console - http参数显示功能开启...
+[2014-11-04 00:01:13.313] [INFO] console - param  :  {}
+[2014-11-04 00:01:13.314] [INFO] console - get :  {}
+[2014-11-04 00:01:13.314] [INFO] console - post :  {}
+[2014-11-04 00:01:13.322] [WARN] normal - GET /
+[2014-11-04 00:01:13.346] [WARN] normal - GET /stylesheets/style.css
+[2014-11-04 00:01:52.559] [INFO] console - development
+[2014-11-04 00:01:53.323] [INFO] console - h5team  listening on port 3000
+[2014-11-04 00:01:56.770] [WARN] console - http参数显示功能开启...
+[2014-11-04 00:01:56.770] [INFO] console - param  :  {}
+[2014-11-04 00:01:56.771] [INFO] console - get :  {}
+[2014-11-04 00:01:56.771] [INFO] console - post :  {}
+[2014-11-04 00:01:56.777] [WARN] normal - GET /
+[2014-11-04 00:01:56.814] [WARN] normal - GET /stylesheets/style.css
+[2014-11-04 00:02:00.548] [INFO] console - disconnect...
+[2014-11-04 00:05:55.607] [WARN] console - http参数显示功能开启...
+[2014-11-04 00:05:55.607] [INFO] console - param  :  {}
+[2014-11-04 00:05:55.607] [INFO] console - get :  {}
+[2014-11-04 00:05:55.607] [INFO] console - post :  {}
+[2014-11-04 00:05:55.611] [WARN] normal - GET /
+[2014-11-04 00:05:55.638] [WARN] normal - GET /stylesheets/style.css
+[2014-11-04 00:06:05.917] [INFO] console - disconnect...
+[2014-11-04 00:06:11.753] [WARN] console - http参数显示功能开启...
+[2014-11-04 00:06:11.753] [INFO] console - param  :  {}
+[2014-11-04 00:06:11.753] [INFO] console - get :  {}
+[2014-11-04 00:06:11.753] [INFO] console - post :  {}
+[2014-11-04 00:06:11.757] [INFO] normal - GET /
+[2014-11-04 00:06:11.788] [INFO] normal - GET /stylesheets/style.css
+[2014-11-04 00:06:11.886] [INFO] normal - GET /favicon.ico
+[2014-11-04 00:06:30.293] [WARN] console - http参数显示功能开启...
+[2014-11-04 00:06:30.293] [INFO] console - param  :  {}
+[2014-11-04 00:06:30.293] [INFO] console - get :  {}
+[2014-11-04 00:06:30.293] [INFO] console - post :  {}
+[2014-11-04 00:06:30.295] [INFO] normal - GET /
+[2014-11-04 00:06:30.683] [INFO] normal - GET /stylesheets/style.css
+[2014-11-04 00:06:37.376] [INFO] console - { my: 'data' }
+[2014-11-04 00:06:42.339] [INFO] console - disconnect...
