@@ -2619,3 +2619,1149 @@ Error: is not found
 [2014-11-04 23:56:53.766] [INFO] console - select
 [2014-11-04 23:56:53.766] [INFO] console - update
 [2014-11-04 23:56:53.766] [INFO] console - [ 'one', 'two', 'three' ]
+[2014-11-05 11:48:17.782] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-11-05 11:48:17.784] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-11-05 11:48:18.054] [INFO] console - development
+[2014-11-05 11:48:18.562] [INFO] console - h5team  listening on port 3000
+[2014-11-05 11:48:46.458] [WARN] console - http参数显示功能开启...
+[2014-11-05 11:48:46.459] [INFO] console - param  :  {}
+[2014-11-05 11:48:46.459] [INFO] console - get :  {}
+[2014-11-05 11:48:46.459] [INFO] console - post :  {}
+[2014-11-05 11:48:46.464] [ERROR] console - TypeError: Object function (){
+
+} has no method 'checkUser'
+    at Object.module.exports [as handle] (/Users/abjia/work/RealTimeApp/routes/users.js:11:17)
+    at next_layer (/Users/abjia/work/node_modules/express/lib/router/route.js:103:13)
+    at Route.dispatch (/Users/abjia/work/node_modules/express/lib/router/route.js:107:5)
+    at proto.handle.c (/Users/abjia/work/node_modules/express/lib/router/index.js:195:24)
+    at param (/Users/abjia/work/node_modules/express/lib/router/index.js:268:14)
+    at param (/Users/abjia/work/node_modules/express/lib/router/index.js:280:16)
+    at Function.proto.process_params (/Users/abjia/work/node_modules/express/lib/router/index.js:296:3)
+    at next (/Users/abjia/work/node_modules/express/lib/router/index.js:189:19)
+    at Function.proto.handle (/Users/abjia/work/node_modules/express/lib/router/index.js:234:5)
+    at Layer.router (/Users/abjia/work/node_modules/express/lib/router/index.js:23:12)
+[2014-11-05 11:48:46.465] [ERROR] normal - GET /user/1
+[2014-11-05 11:48:46.645] [INFO] normal - GET /favicon.ico
+[2014-11-05 11:49:35.264] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-11-05 11:49:35.266] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-11-05 11:49:35.571] [INFO] console - development
+[2014-11-05 11:49:36.142] [INFO] console - h5team  listening on port 3000
+[2014-11-05 11:49:36.944] [WARN] console - http参数显示功能开启...
+[2014-11-05 11:49:36.944] [INFO] console - param  :  {}
+[2014-11-05 11:49:36.944] [INFO] console - get :  {}
+[2014-11-05 11:49:36.944] [INFO] console - post :  {}
+[2014-11-05 11:50:25.208] [ERROR] console - TypeError: Object function (){
+
+} has no method 'checkUser'
+    at Object.module.exports [as handle] (/Users/abjia/work/RealTimeApp/routes/users.js:11:17)
+    at next_layer (/Users/abjia/work/node_modules/express/lib/router/route.js:103:13)
+    at Route.dispatch (/Users/abjia/work/node_modules/express/lib/router/route.js:107:5)
+    at proto.handle.c (/Users/abjia/work/node_modules/express/lib/router/index.js:195:24)
+    at param (/Users/abjia/work/node_modules/express/lib/router/index.js:268:14)
+    at param (/Users/abjia/work/node_modules/express/lib/router/index.js:280:16)
+    at Function.proto.process_params (/Users/abjia/work/node_modules/express/lib/router/index.js:296:3)
+    at next (/Users/abjia/work/node_modules/express/lib/router/index.js:189:19)
+    at Function.proto.handle (/Users/abjia/work/node_modules/express/lib/router/index.js:234:5)
+    at Layer.router (/Users/abjia/work/node_modules/express/lib/router/index.js:23:12)
+[2014-11-05 11:50:25.210] [ERROR] normal - GET /user/1
+[2014-11-05 11:50:25.987] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-11-05 11:50:25.988] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-11-05 11:50:26.250] [INFO] console - development
+[2014-11-05 11:50:26.769] [INFO] console - h5team  listening on port 3000
+[2014-11-05 11:50:28.500] [WARN] console - http参数显示功能开启...
+[2014-11-05 11:52:29.686] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-11-05 11:52:29.687] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-11-05 11:52:29.950] [INFO] console - development
+[2014-11-05 11:52:30.469] [INFO] console - h5team  listening on port 3000
+[2014-11-05 11:52:32.642] [WARN] console - http参数显示功能开启...
+[2014-11-05 11:52:32.642] [INFO] console - param  :  {}
+[2014-11-05 11:52:32.642] [INFO] console - get :  {}
+[2014-11-05 11:52:32.643] [INFO] console - post :  {}
+[2014-11-05 11:52:32.651] [INFO] normal - GET /user/1
+[2014-11-05 11:53:18.539] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-11-05 11:53:18.540] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-11-05 11:53:18.808] [INFO] console - development
+[2014-11-05 11:53:19.350] [INFO] console - h5team  listening on port 3000
+[2014-11-05 11:53:20.647] [WARN] console - http参数显示功能开启...
+[2014-11-05 11:53:20.647] [INFO] console - param  :  {}
+[2014-11-05 11:53:20.648] [INFO] console - get :  {}
+[2014-11-05 11:53:20.648] [INFO] console - post :  {}
+[2014-11-05 11:53:33.697] [WARN] normal - GET /user/1
+[2014-11-05 11:53:34.458] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-11-05 11:53:34.459] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-11-05 11:53:34.723] [INFO] console - development
+[2014-11-05 11:53:35.260] [INFO] console - h5team  listening on port 3000
+[2014-11-05 11:58:09.211] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-11-05 11:58:09.212] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-11-05 11:58:09.466] [INFO] console - development
+[2014-11-05 11:58:09.968] [INFO] console - h5team  listening on port 3000
+[2014-11-05 11:58:31.998] [WARN] console - http参数显示功能开启...
+[2014-11-05 11:58:31.999] [INFO] console - param  :  {}
+[2014-11-05 11:58:31.999] [INFO] console - get :  {}
+[2014-11-05 11:58:31.999] [INFO] console - post :  {}
+[2014-11-05 11:58:32.001] [WARN] normal - GET /user/1
+[2014-11-05 11:58:32.156] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='1'
+[2014-11-05 11:58:32.206] [INFO] console - []
+[2014-11-05 14:03:34.091] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-11-05 14:03:34.092] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-11-05 14:03:34.398] [INFO] console - development
+[2014-11-05 14:03:35.004] [INFO] console - h5team  listening on port 3000
+[2014-11-05 14:03:37.813] [WARN] console - http参数显示功能开启...
+[2014-11-05 14:03:37.813] [INFO] console - param  :  {}
+[2014-11-05 14:03:37.814] [INFO] console - get :  {}
+[2014-11-05 14:03:37.814] [INFO] console - post :  {}
+[2014-11-05 14:03:37.816] [WARN] normal - GET /user/1
+[2014-11-05 14:03:37.968] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='1'
+[2014-11-05 14:03:38.090] [INFO] console - INSERT INTO T_USERS(USERNAME, USERPHONE, CRTTIME) VALUES('匿名','0000',NOW())
+[2014-11-05 14:03:49.644] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-11-05 14:03:49.646] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-11-05 14:03:49.921] [INFO] console - development
+[2014-11-05 14:03:50.441] [INFO] console - h5team  listening on port 3000
+[2014-11-05 14:03:52.040] [WARN] console - http参数显示功能开启...
+[2014-11-05 14:03:52.040] [INFO] console - param  :  {}
+[2014-11-05 14:03:52.040] [INFO] console - get :  {}
+[2014-11-05 14:03:52.041] [INFO] console - post :  {}
+[2014-11-05 14:03:52.042] [WARN] normal - GET /user/1
+[2014-11-05 14:03:52.190] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='1'
+[2014-11-05 14:03:52.285] [INFO] console - INSERT INTO T_USERS(USERNAME, USERPHONE, CRTTIME) VALUES('匿名','0000',NOW())
+[2014-11-05 14:03:52.335] [INFO] console - DB-执行查询语句异常！
+[2014-11-05 14:03:52.335] [INFO] console - { [Error: ER_DUP_ENTRY: Duplicate entry '0' for key 'PRIMARY'] code: 'ER_DUP_ENTRY', errno: 1062, sqlState: '23000', index: 0 }
+Error: ER_DUP_ENTRY: Duplicate entry '0' for key 'PRIMARY'
+    at Query.Sequence._packetToError (/Users/abjia/work/node_modules/mysql/lib/protocol/sequences/Sequence.js:48:14)
+    at Query.ErrorPacket (/Users/abjia/work/node_modules/mysql/lib/protocol/sequences/Query.js:82:18)
+    at Protocol._parsePacket (/Users/abjia/work/node_modules/mysql/lib/protocol/Protocol.js:270:23)
+    at Parser.write (/Users/abjia/work/node_modules/mysql/lib/protocol/Parser.js:77:12)
+    at Protocol.write (/Users/abjia/work/node_modules/mysql/lib/protocol/Protocol.js:39:16)
+    at Socket.Connection.connect (/Users/abjia/work/node_modules/mysql/lib/Connection.js:82:28)
+    at Socket.emit (events.js:95:17)
+    at Socket.stream.pause.paused (_stream_readable.js:764:14)
+    at Socket.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:426:10)
+    --------------------
+    at Protocol._enqueue (/Users/abjia/work/node_modules/mysql/lib/protocol/Protocol.js:135:48)
+    at PoolConnection.Connection.query (/Users/abjia/work/node_modules/mysql/lib/Connection.js:184:25)
+    at exports.execQuery (/Users/abjia/work/RealTimeApp/models/db.js:63:36)
+    at Ping.Pool.acquireConnection [as _callback] (/Users/abjia/work/node_modules/mysql/lib/Pool.js:81:7)
+    at Ping.Sequence.end (/Users/abjia/work/node_modules/mysql/lib/protocol/sequences/Sequence.js:96:24)
+    at Ping.Sequence.OkPacket (/Users/abjia/work/node_modules/mysql/lib/protocol/sequences/Sequence.js:105:8)
+    at Protocol._parsePacket (/Users/abjia/work/node_modules/mysql/lib/protocol/Protocol.js:270:23)
+    at Parser.write (/Users/abjia/work/node_modules/mysql/lib/protocol/Parser.js:77:12)
+    at Protocol.write (/Users/abjia/work/node_modules/mysql/lib/protocol/Protocol.js:39:16)
+    at Socket.Connection.connect (/Users/abjia/work/node_modules/mysql/lib/Connection.js:82:28)
+[2014-11-05 14:04:00.857] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-11-05 14:04:00.859] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-11-05 14:04:01.126] [INFO] console - development
+[2014-11-05 14:04:01.632] [INFO] console - h5team  listening on port 3000
+[2014-11-05 14:04:19.600] [WARN] console - http参数显示功能开启...
+[2014-11-05 14:04:19.600] [INFO] console - param  :  {}
+[2014-11-05 14:04:19.601] [INFO] console - get :  {}
+[2014-11-05 14:04:19.601] [INFO] console - post :  {}
+[2014-11-05 14:04:19.603] [WARN] normal - GET /user/1
+[2014-11-05 14:04:19.754] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='1'
+[2014-11-05 14:04:19.850] [INFO] console - INSERT INTO T_USERS(USERNAME, USERPHONE, CRTTIME) VALUES('匿名','0000',NOW())
+[2014-11-05 14:04:19.900] [INFO] console - DB-执行查询语句异常！
+[2014-11-05 14:04:19.900] [INFO] console - { [Error: ER_DUP_ENTRY: Duplicate entry '0' for key 'PRIMARY'] code: 'ER_DUP_ENTRY', errno: 1062, sqlState: '23000', index: 0 }
+Error: ER_DUP_ENTRY: Duplicate entry '0' for key 'PRIMARY'
+    at Query.Sequence._packetToError (/Users/abjia/work/node_modules/mysql/lib/protocol/sequences/Sequence.js:48:14)
+    at Query.ErrorPacket (/Users/abjia/work/node_modules/mysql/lib/protocol/sequences/Query.js:82:18)
+    at Protocol._parsePacket (/Users/abjia/work/node_modules/mysql/lib/protocol/Protocol.js:270:23)
+    at Parser.write (/Users/abjia/work/node_modules/mysql/lib/protocol/Parser.js:77:12)
+    at Protocol.write (/Users/abjia/work/node_modules/mysql/lib/protocol/Protocol.js:39:16)
+    at Socket.Connection.connect (/Users/abjia/work/node_modules/mysql/lib/Connection.js:82:28)
+    at Socket.emit (events.js:95:17)
+    at Socket.stream.pause.paused (_stream_readable.js:764:14)
+    at Socket.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:426:10)
+    --------------------
+    at Protocol._enqueue (/Users/abjia/work/node_modules/mysql/lib/protocol/Protocol.js:135:48)
+    at PoolConnection.Connection.query (/Users/abjia/work/node_modules/mysql/lib/Connection.js:184:25)
+    at exports.execQuery (/Users/abjia/work/RealTimeApp/models/db.js:63:36)
+    at Ping.Pool.acquireConnection [as _callback] (/Users/abjia/work/node_modules/mysql/lib/Pool.js:81:7)
+    at Ping.Sequence.end (/Users/abjia/work/node_modules/mysql/lib/protocol/sequences/Sequence.js:96:24)
+    at Ping.Sequence.OkPacket (/Users/abjia/work/node_modules/mysql/lib/protocol/sequences/Sequence.js:105:8)
+    at Protocol._parsePacket (/Users/abjia/work/node_modules/mysql/lib/protocol/Protocol.js:270:23)
+    at Parser.write (/Users/abjia/work/node_modules/mysql/lib/protocol/Parser.js:77:12)
+    at Protocol.write (/Users/abjia/work/node_modules/mysql/lib/protocol/Protocol.js:39:16)
+    at Socket.Connection.connect (/Users/abjia/work/node_modules/mysql/lib/Connection.js:82:28)
+[2014-11-05 14:05:22.448] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-11-05 14:05:22.449] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-11-05 14:05:22.711] [INFO] console - development
+[2014-11-05 14:05:23.233] [INFO] console - h5team  listening on port 3000
+[2014-11-05 14:05:27.302] [WARN] console - http参数显示功能开启...
+[2014-11-05 14:05:27.302] [INFO] console - param  :  {}
+[2014-11-05 14:05:27.303] [INFO] console - get :  {}
+[2014-11-05 14:05:27.303] [INFO] console - post :  {}
+[2014-11-05 14:05:27.306] [WARN] normal - GET /user/1
+[2014-11-05 14:05:27.458] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='1'
+[2014-11-05 14:05:27.555] [INFO] console - INSERT INTO T_USERS(USERNAME, USERPHONE, CRTTIME) VALUES('匿名','0000',NOW())
+[2014-11-05 14:05:27.605] [INFO] console - DB-执行查询语句异常！
+[2014-11-05 14:05:27.606] [INFO] console - { [Error: ER_DUP_ENTRY: Duplicate entry '0' for key 'PRIMARY'] code: 'ER_DUP_ENTRY', errno: 1062, sqlState: '23000', index: 0 }
+Error: ER_DUP_ENTRY: Duplicate entry '0' for key 'PRIMARY'
+    at Query.Sequence._packetToError (/Users/abjia/work/node_modules/mysql/lib/protocol/sequences/Sequence.js:48:14)
+    at Query.ErrorPacket (/Users/abjia/work/node_modules/mysql/lib/protocol/sequences/Query.js:82:18)
+    at Protocol._parsePacket (/Users/abjia/work/node_modules/mysql/lib/protocol/Protocol.js:270:23)
+    at Parser.write (/Users/abjia/work/node_modules/mysql/lib/protocol/Parser.js:77:12)
+    at Protocol.write (/Users/abjia/work/node_modules/mysql/lib/protocol/Protocol.js:39:16)
+    at Socket.Connection.connect (/Users/abjia/work/node_modules/mysql/lib/Connection.js:82:28)
+    at Socket.emit (events.js:95:17)
+    at Socket.stream.pause.paused (_stream_readable.js:764:14)
+    at Socket.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:426:10)
+    --------------------
+    at Protocol._enqueue (/Users/abjia/work/node_modules/mysql/lib/protocol/Protocol.js:135:48)
+    at PoolConnection.Connection.query (/Users/abjia/work/node_modules/mysql/lib/Connection.js:184:25)
+    at exports.execQuery (/Users/abjia/work/RealTimeApp/models/db.js:63:36)
+    at Ping.Pool.acquireConnection [as _callback] (/Users/abjia/work/node_modules/mysql/lib/Pool.js:81:7)
+    at Ping.Sequence.end (/Users/abjia/work/node_modules/mysql/lib/protocol/sequences/Sequence.js:96:24)
+    at Ping.Sequence.OkPacket (/Users/abjia/work/node_modules/mysql/lib/protocol/sequences/Sequence.js:105:8)
+    at Protocol._parsePacket (/Users/abjia/work/node_modules/mysql/lib/protocol/Protocol.js:270:23)
+    at Parser.write (/Users/abjia/work/node_modules/mysql/lib/protocol/Parser.js:77:12)
+    at Protocol.write (/Users/abjia/work/node_modules/mysql/lib/protocol/Protocol.js:39:16)
+    at Socket.Connection.connect (/Users/abjia/work/node_modules/mysql/lib/Connection.js:82:28)
+[2014-11-05 14:05:33.009] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-11-05 14:05:33.011] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-11-05 14:05:33.266] [INFO] console - development
+[2014-11-05 14:05:33.779] [INFO] console - h5team  listening on port 3000
+[2014-11-05 14:05:41.435] [WARN] console - http参数显示功能开启...
+[2014-11-05 14:05:41.435] [INFO] console - param  :  {}
+[2014-11-05 14:05:41.435] [INFO] console - get :  {}
+[2014-11-05 14:05:41.435] [INFO] console - post :  {}
+[2014-11-05 14:05:41.437] [WARN] normal - GET /user/1
+[2014-11-05 14:05:41.586] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='1'
+[2014-11-05 14:05:41.683] [INFO] console - INSERT INTO T_USERS(USERNAME, USERPHONE, CRTTIME) VALUES('匿名','0000',NOW())
+[2014-11-05 14:05:41.732] [INFO] console - DB-执行查询语句异常！
+[2014-11-05 14:05:41.732] [INFO] console - { [Error: ER_DUP_ENTRY: Duplicate entry '0' for key 'PRIMARY'] code: 'ER_DUP_ENTRY', errno: 1062, sqlState: '23000', index: 0 }
+Error: ER_DUP_ENTRY: Duplicate entry '0' for key 'PRIMARY'
+    at Query.Sequence._packetToError (/Users/abjia/work/node_modules/mysql/lib/protocol/sequences/Sequence.js:48:14)
+    at Query.ErrorPacket (/Users/abjia/work/node_modules/mysql/lib/protocol/sequences/Query.js:82:18)
+    at Protocol._parsePacket (/Users/abjia/work/node_modules/mysql/lib/protocol/Protocol.js:270:23)
+    at Parser.write (/Users/abjia/work/node_modules/mysql/lib/protocol/Parser.js:77:12)
+    at Protocol.write (/Users/abjia/work/node_modules/mysql/lib/protocol/Protocol.js:39:16)
+    at Socket.Connection.connect (/Users/abjia/work/node_modules/mysql/lib/Connection.js:82:28)
+    at Socket.emit (events.js:95:17)
+    at Socket.stream.pause.paused (_stream_readable.js:764:14)
+    at Socket.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:426:10)
+    --------------------
+    at Protocol._enqueue (/Users/abjia/work/node_modules/mysql/lib/protocol/Protocol.js:135:48)
+    at PoolConnection.Connection.query (/Users/abjia/work/node_modules/mysql/lib/Connection.js:184:25)
+    at exports.execQuery (/Users/abjia/work/RealTimeApp/models/db.js:63:36)
+    at Ping.Pool.acquireConnection [as _callback] (/Users/abjia/work/node_modules/mysql/lib/Pool.js:81:7)
+    at Ping.Sequence.end (/Users/abjia/work/node_modules/mysql/lib/protocol/sequences/Sequence.js:96:24)
+    at Ping.Sequence.OkPacket (/Users/abjia/work/node_modules/mysql/lib/protocol/sequences/Sequence.js:105:8)
+    at Protocol._parsePacket (/Users/abjia/work/node_modules/mysql/lib/protocol/Protocol.js:270:23)
+    at Parser.write (/Users/abjia/work/node_modules/mysql/lib/protocol/Parser.js:77:12)
+    at Protocol.write (/Users/abjia/work/node_modules/mysql/lib/protocol/Protocol.js:39:16)
+    at Socket.Connection.connect (/Users/abjia/work/node_modules/mysql/lib/Connection.js:82:28)
+[2014-11-05 14:05:54.191] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-11-05 14:05:54.192] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-11-05 14:05:54.465] [INFO] console - development
+[2014-11-05 14:05:54.983] [INFO] console - h5team  listening on port 3000
+[2014-11-05 14:05:56.079] [WARN] console - http参数显示功能开启...
+[2014-11-05 14:05:56.079] [INFO] console - param  :  {}
+[2014-11-05 14:05:56.079] [INFO] console - get :  {}
+[2014-11-05 14:05:56.079] [INFO] console - post :  {}
+[2014-11-05 14:05:56.081] [WARN] normal - GET /user/1
+[2014-11-05 14:05:56.242] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='1'
+[2014-11-05 14:08:36.866] [WARN] console - http参数显示功能开启...
+[2014-11-05 14:08:36.866] [INFO] console - param  :  {}
+[2014-11-05 14:08:36.866] [INFO] console - get :  {}
+[2014-11-05 14:08:36.866] [INFO] console - post :  {}
+[2014-11-05 14:08:36.867] [INFO] normal - GET /user/2
+[2014-11-05 14:08:36.913] [INFO] console - INSERT INTO T_USERS(USERNAME, USERPHONE, CRTTIME) VALUES('匿名','0000',NOW())
+[2014-11-05 14:08:36.966] [INFO] console - DB-执行查询语句异常！
+[2014-11-05 14:08:36.966] [INFO] console - { [Error: ER_DUP_ENTRY: Duplicate entry '0' for key 'PRIMARY'] code: 'ER_DUP_ENTRY', errno: 1062, sqlState: '23000', index: 0 }
+Error: ER_DUP_ENTRY: Duplicate entry '0' for key 'PRIMARY'
+    at Query.Sequence._packetToError (/Users/abjia/work/node_modules/mysql/lib/protocol/sequences/Sequence.js:48:14)
+    at Query.ErrorPacket (/Users/abjia/work/node_modules/mysql/lib/protocol/sequences/Query.js:82:18)
+    at Protocol._parsePacket (/Users/abjia/work/node_modules/mysql/lib/protocol/Protocol.js:270:23)
+    at Parser.write (/Users/abjia/work/node_modules/mysql/lib/protocol/Parser.js:77:12)
+    at Protocol.write (/Users/abjia/work/node_modules/mysql/lib/protocol/Protocol.js:39:16)
+    at Socket.Connection.connect (/Users/abjia/work/node_modules/mysql/lib/Connection.js:82:28)
+    at Socket.emit (events.js:95:17)
+    at Socket.stream.pause.paused (_stream_readable.js:764:14)
+    at Socket.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:426:10)
+    --------------------
+    at Protocol._enqueue (/Users/abjia/work/node_modules/mysql/lib/protocol/Protocol.js:135:48)
+    at PoolConnection.Connection.query (/Users/abjia/work/node_modules/mysql/lib/Connection.js:184:25)
+    at exports.execQuery (/Users/abjia/work/RealTimeApp/models/db.js:63:36)
+    at Ping.Pool.acquireConnection [as _callback] (/Users/abjia/work/node_modules/mysql/lib/Pool.js:81:7)
+    at Ping.Sequence.end (/Users/abjia/work/node_modules/mysql/lib/protocol/sequences/Sequence.js:96:24)
+    at Ping.Sequence.OkPacket (/Users/abjia/work/node_modules/mysql/lib/protocol/sequences/Sequence.js:105:8)
+    at Protocol._parsePacket (/Users/abjia/work/node_modules/mysql/lib/protocol/Protocol.js:270:23)
+    at Parser.write (/Users/abjia/work/node_modules/mysql/lib/protocol/Parser.js:77:12)
+    at Protocol.write (/Users/abjia/work/node_modules/mysql/lib/protocol/Protocol.js:39:16)
+    at Socket.Connection.connect (/Users/abjia/work/node_modules/mysql/lib/Connection.js:82:28)
+[2014-11-05 14:08:37.010] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='2'
+[2014-11-05 14:08:39.952] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-11-05 14:08:39.953] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-11-05 14:08:40.217] [INFO] console - development
+[2014-11-05 14:08:40.752] [INFO] console - h5team  listening on port 3000
+[2014-11-05 14:08:49.868] [WARN] console - http参数显示功能开启...
+[2014-11-05 14:08:49.869] [INFO] console - param  :  {}
+[2014-11-05 14:08:49.869] [INFO] console - get :  {}
+[2014-11-05 14:08:49.869] [INFO] console - post :  {}
+[2014-11-05 14:08:49.871] [WARN] normal - GET /user/2
+[2014-11-05 14:08:50.029] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='2'
+[2014-11-05 14:08:53.253] [INFO] console - INSERT INTO T_USERS(USERNAME, USERPHONE, CRTTIME) VALUES('匿名','0000',NOW())
+[2014-11-05 14:08:53.303] [INFO] console - DB-执行查询语句异常！
+[2014-11-05 14:08:53.303] [INFO] console - { [Error: ER_DUP_ENTRY: Duplicate entry '0' for key 'PRIMARY'] code: 'ER_DUP_ENTRY', errno: 1062, sqlState: '23000', index: 0 }
+Error: ER_DUP_ENTRY: Duplicate entry '0' for key 'PRIMARY'
+    at Query.Sequence._packetToError (/Users/abjia/work/node_modules/mysql/lib/protocol/sequences/Sequence.js:48:14)
+    at Query.ErrorPacket (/Users/abjia/work/node_modules/mysql/lib/protocol/sequences/Query.js:82:18)
+    at Protocol._parsePacket (/Users/abjia/work/node_modules/mysql/lib/protocol/Protocol.js:270:23)
+    at Parser.write (/Users/abjia/work/node_modules/mysql/lib/protocol/Parser.js:77:12)
+    at Protocol.write (/Users/abjia/work/node_modules/mysql/lib/protocol/Protocol.js:39:16)
+    at Socket.Connection.connect (/Users/abjia/work/node_modules/mysql/lib/Connection.js:82:28)
+    at Socket.emit (events.js:95:17)
+    at Socket.stream.pause.paused (_stream_readable.js:764:14)
+    at Socket.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:426:10)
+    --------------------
+    at Protocol._enqueue (/Users/abjia/work/node_modules/mysql/lib/protocol/Protocol.js:135:48)
+    at PoolConnection.Connection.query (/Users/abjia/work/node_modules/mysql/lib/Connection.js:184:25)
+    at exports.execQuery (/Users/abjia/work/RealTimeApp/models/db.js:63:36)
+    at Ping.Pool.acquireConnection [as _callback] (/Users/abjia/work/node_modules/mysql/lib/Pool.js:81:7)
+    at Ping.Sequence.end (/Users/abjia/work/node_modules/mysql/lib/protocol/sequences/Sequence.js:96:24)
+    at Ping.Sequence.OkPacket (/Users/abjia/work/node_modules/mysql/lib/protocol/sequences/Sequence.js:105:8)
+    at Protocol._parsePacket (/Users/abjia/work/node_modules/mysql/lib/protocol/Protocol.js:270:23)
+    at Parser.write (/Users/abjia/work/node_modules/mysql/lib/protocol/Parser.js:77:12)
+    at Protocol.write (/Users/abjia/work/node_modules/mysql/lib/protocol/Protocol.js:39:16)
+    at Socket.Connection.connect (/Users/abjia/work/node_modules/mysql/lib/Connection.js:82:28)
+[2014-11-05 14:09:21.306] [WARN] console - http参数显示功能开启...
+[2014-11-05 14:09:21.307] [INFO] console - param  :  {}
+[2014-11-05 14:09:21.307] [INFO] console - get :  {}
+[2014-11-05 14:09:21.307] [INFO] console - post :  {}
+[2014-11-05 14:09:21.308] [WARN] normal - GET /user/2
+[2014-11-05 14:09:21.360] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='2'
+[2014-11-05 14:09:51.619] [INFO] console - INSERT INTO T_USERS(USERNAME, USERPHONE, CRTTIME) VALUES('匿名','0000',NOW())
+[2014-11-05 14:09:51.669] [INFO] console - DB-执行查询语句异常！
+[2014-11-05 14:09:51.669] [INFO] console - { [Error: ER_DUP_ENTRY: Duplicate entry '0' for key 'PRIMARY'] code: 'ER_DUP_ENTRY', errno: 1062, sqlState: '23000', index: 0 }
+Error: ER_DUP_ENTRY: Duplicate entry '0' for key 'PRIMARY'
+    at Query.Sequence._packetToError (/Users/abjia/work/node_modules/mysql/lib/protocol/sequences/Sequence.js:48:14)
+    at Query.ErrorPacket (/Users/abjia/work/node_modules/mysql/lib/protocol/sequences/Query.js:82:18)
+    at Protocol._parsePacket (/Users/abjia/work/node_modules/mysql/lib/protocol/Protocol.js:270:23)
+    at Parser.write (/Users/abjia/work/node_modules/mysql/lib/protocol/Parser.js:77:12)
+    at Protocol.write (/Users/abjia/work/node_modules/mysql/lib/protocol/Protocol.js:39:16)
+    at Socket.Connection.connect (/Users/abjia/work/node_modules/mysql/lib/Connection.js:82:28)
+    at Socket.emit (events.js:95:17)
+    at Socket.stream.pause.paused (_stream_readable.js:764:14)
+    at Socket.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:426:10)
+    --------------------
+    at Protocol._enqueue (/Users/abjia/work/node_modules/mysql/lib/protocol/Protocol.js:135:48)
+    at PoolConnection.Connection.query (/Users/abjia/work/node_modules/mysql/lib/Connection.js:184:25)
+    at exports.execQuery (/Users/abjia/work/RealTimeApp/models/db.js:63:36)
+    at Ping.Pool.acquireConnection [as _callback] (/Users/abjia/work/node_modules/mysql/lib/Pool.js:81:7)
+    at Ping.Sequence.end (/Users/abjia/work/node_modules/mysql/lib/protocol/sequences/Sequence.js:96:24)
+    at Ping.Sequence.OkPacket (/Users/abjia/work/node_modules/mysql/lib/protocol/sequences/Sequence.js:105:8)
+    at Protocol._parsePacket (/Users/abjia/work/node_modules/mysql/lib/protocol/Protocol.js:270:23)
+    at Parser.write (/Users/abjia/work/node_modules/mysql/lib/protocol/Parser.js:77:12)
+    at Protocol.write (/Users/abjia/work/node_modules/mysql/lib/protocol/Protocol.js:39:16)
+    at Socket.Connection.connect (/Users/abjia/work/node_modules/mysql/lib/Connection.js:82:28)
+[2014-11-05 14:14:17.517] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-11-05 14:14:17.518] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-11-05 14:14:17.782] [INFO] console - development
+[2014-11-05 14:14:18.316] [INFO] console - h5team  listening on port 3000
+[2014-11-05 14:14:31.010] [WARN] console - http参数显示功能开启...
+[2014-11-05 14:14:31.010] [INFO] console - param  :  {}
+[2014-11-05 14:14:31.010] [INFO] console - get :  {}
+[2014-11-05 14:14:31.010] [INFO] console - post :  {}
+[2014-11-05 14:14:31.013] [WARN] normal - GET /user/2
+[2014-11-05 14:14:31.165] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='2'
+[2014-11-05 14:14:36.358] [INFO] console - INSERT INTO T_USERS(USERNAME, USERPHONE, CRTTIME) VALUES('匿名','0000',NOW())
+[2014-11-05 14:14:36.413] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 1,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+[2014-11-05 14:14:47.880] [WARN] console - http参数显示功能开启...
+[2014-11-05 14:14:47.880] [INFO] console - param  :  {}
+[2014-11-05 14:14:47.880] [INFO] console - get :  {}
+[2014-11-05 14:14:47.880] [INFO] console - post :  {}
+[2014-11-05 14:14:47.881] [WARN] normal - GET /user/2
+[2014-11-05 14:14:47.929] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='2'
+[2014-11-05 14:14:48.025] [INFO] console - INSERT INTO T_USERS(USERNAME, USERPHONE, CRTTIME) VALUES('匿名','0000',NOW())
+[2014-11-05 14:14:48.076] [INFO] console - DB-执行查询语句异常！
+[2014-11-05 14:14:48.076] [INFO] console - { [Error: ER_DUP_ENTRY: Duplicate entry '0' for key 'PRIMARY'] code: 'ER_DUP_ENTRY', errno: 1062, sqlState: '23000', index: 0 }
+Error: ER_DUP_ENTRY: Duplicate entry '0' for key 'PRIMARY'
+    at Query.Sequence._packetToError (/Users/abjia/work/node_modules/mysql/lib/protocol/sequences/Sequence.js:48:14)
+    at Query.ErrorPacket (/Users/abjia/work/node_modules/mysql/lib/protocol/sequences/Query.js:82:18)
+    at Protocol._parsePacket (/Users/abjia/work/node_modules/mysql/lib/protocol/Protocol.js:270:23)
+    at Parser.write (/Users/abjia/work/node_modules/mysql/lib/protocol/Parser.js:77:12)
+    at Protocol.write (/Users/abjia/work/node_modules/mysql/lib/protocol/Protocol.js:39:16)
+    at Socket.Connection.connect (/Users/abjia/work/node_modules/mysql/lib/Connection.js:82:28)
+    at Socket.emit (events.js:95:17)
+    at Socket.stream.pause.paused (_stream_readable.js:764:14)
+    at Socket.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:426:10)
+    --------------------
+    at Protocol._enqueue (/Users/abjia/work/node_modules/mysql/lib/protocol/Protocol.js:135:48)
+    at PoolConnection.Connection.query (/Users/abjia/work/node_modules/mysql/lib/Connection.js:184:25)
+    at exports.execQuery (/Users/abjia/work/RealTimeApp/models/db.js:63:36)
+    at Ping.Pool.acquireConnection [as _callback] (/Users/abjia/work/node_modules/mysql/lib/Pool.js:81:7)
+    at Ping.Sequence.end (/Users/abjia/work/node_modules/mysql/lib/protocol/sequences/Sequence.js:96:24)
+    at Ping.Sequence.OkPacket (/Users/abjia/work/node_modules/mysql/lib/protocol/sequences/Sequence.js:105:8)
+    at Protocol._parsePacket (/Users/abjia/work/node_modules/mysql/lib/protocol/Protocol.js:270:23)
+    at Parser.write (/Users/abjia/work/node_modules/mysql/lib/protocol/Parser.js:77:12)
+    at Protocol.write (/Users/abjia/work/node_modules/mysql/lib/protocol/Protocol.js:39:16)
+    at Socket.Connection.connect (/Users/abjia/work/node_modules/mysql/lib/Connection.js:82:28)
+[2014-11-05 14:16:25.134] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-11-05 14:16:25.135] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-11-05 14:16:25.406] [INFO] console - development
+[2014-11-05 14:16:25.904] [INFO] console - h5team  listening on port 3000
+[2014-11-05 14:16:27.546] [WARN] console - http参数显示功能开启...
+[2014-11-05 14:16:27.546] [INFO] console - param  :  {}
+[2014-11-05 14:16:27.546] [INFO] console - get :  {}
+[2014-11-05 14:16:27.546] [INFO] console - post :  {}
+[2014-11-05 14:16:27.548] [WARN] normal - GET /user/2
+[2014-11-05 14:16:27.699] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='2'
+[2014-11-05 14:16:27.795] [INFO] console - INSERT INTO T_USERS(USERNAME, USERPHONE, CRTTIME) VALUES('匿名','0000',NOW())
+[2014-11-05 14:16:27.844] [INFO] console - DB-执行查询语句异常！
+[2014-11-05 14:16:27.844] [INFO] console - { [Error: ER_DUP_ENTRY: Duplicate entry '0' for key 'PRIMARY'] code: 'ER_DUP_ENTRY', errno: 1062, sqlState: '23000', index: 0 }
+Error: ER_DUP_ENTRY: Duplicate entry '0' for key 'PRIMARY'
+    at Query.Sequence._packetToError (/Users/abjia/work/node_modules/mysql/lib/protocol/sequences/Sequence.js:48:14)
+    at Query.ErrorPacket (/Users/abjia/work/node_modules/mysql/lib/protocol/sequences/Query.js:82:18)
+    at Protocol._parsePacket (/Users/abjia/work/node_modules/mysql/lib/protocol/Protocol.js:270:23)
+    at Parser.write (/Users/abjia/work/node_modules/mysql/lib/protocol/Parser.js:77:12)
+    at Protocol.write (/Users/abjia/work/node_modules/mysql/lib/protocol/Protocol.js:39:16)
+    at Socket.Connection.connect (/Users/abjia/work/node_modules/mysql/lib/Connection.js:82:28)
+    at Socket.emit (events.js:95:17)
+    at Socket.stream.pause.paused (_stream_readable.js:764:14)
+    at Socket.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:426:10)
+    --------------------
+    at Protocol._enqueue (/Users/abjia/work/node_modules/mysql/lib/protocol/Protocol.js:135:48)
+    at PoolConnection.Connection.query (/Users/abjia/work/node_modules/mysql/lib/Connection.js:184:25)
+    at exports.execQuery (/Users/abjia/work/RealTimeApp/models/db.js:63:36)
+    at Ping.Pool.acquireConnection [as _callback] (/Users/abjia/work/node_modules/mysql/lib/Pool.js:81:7)
+    at Ping.Sequence.end (/Users/abjia/work/node_modules/mysql/lib/protocol/sequences/Sequence.js:96:24)
+    at Ping.Sequence.OkPacket (/Users/abjia/work/node_modules/mysql/lib/protocol/sequences/Sequence.js:105:8)
+    at Protocol._parsePacket (/Users/abjia/work/node_modules/mysql/lib/protocol/Protocol.js:270:23)
+    at Parser.write (/Users/abjia/work/node_modules/mysql/lib/protocol/Parser.js:77:12)
+    at Protocol.write (/Users/abjia/work/node_modules/mysql/lib/protocol/Protocol.js:39:16)
+    at Socket.Connection.connect (/Users/abjia/work/node_modules/mysql/lib/Connection.js:82:28)
+[2014-11-05 14:18:15.441] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-11-05 14:18:15.442] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-11-05 14:18:15.703] [INFO] console - development
+[2014-11-05 14:18:16.209] [INFO] console - h5team  listening on port 3000
+[2014-11-05 14:18:21.026] [WARN] console - http参数显示功能开启...
+[2014-11-05 14:18:21.026] [INFO] console - param  :  {}
+[2014-11-05 14:18:21.027] [INFO] console - get :  {}
+[2014-11-05 14:18:21.027] [INFO] console - post :  {}
+[2014-11-05 14:18:21.029] [WARN] normal - GET /user/1
+[2014-11-05 14:18:21.182] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='1'
+[2014-11-05 14:18:21.234] [INFO] console - [ { ID: 1,
+    USERNAME: '匿名',
+    USERPHONE: '0000',
+    ISGETCODE: '0',
+    DELFLAG: '0',
+    CRTTIME: Wed Nov 05 2014 14:14:36 GMT+0800 (CST) } ]
+[2014-11-05 14:18:32.071] [WARN] console - http参数显示功能开启...
+[2014-11-05 14:18:32.071] [INFO] console - param  :  {}
+[2014-11-05 14:18:32.071] [INFO] console - get :  {}
+[2014-11-05 14:18:32.072] [INFO] console - post :  {}
+[2014-11-05 14:18:32.073] [WARN] normal - GET /user/1
+[2014-11-05 14:18:32.124] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='1'
+[2014-11-05 14:18:32.205] [INFO] console - [ { ID: 1,
+    USERNAME: '匿名',
+    USERPHONE: '0000',
+    ISGETCODE: '0',
+    DELFLAG: '0',
+    CRTTIME: Wed Nov 05 2014 14:14:36 GMT+0800 (CST) } ]
+[2014-11-05 14:18:40.330] [WARN] console - http参数显示功能开启...
+[2014-11-05 14:18:40.330] [INFO] console - param  :  {}
+[2014-11-05 14:18:40.330] [INFO] console - get :  {}
+[2014-11-05 14:18:40.331] [INFO] console - post :  {}
+[2014-11-05 14:18:40.332] [WARN] normal - GET /user/2
+[2014-11-05 14:18:40.380] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='2'
+[2014-11-05 14:18:40.475] [INFO] console - INSERT INTO T_USERS(USERNAME, USERPHONE, CRTTIME) VALUES('匿名','0000',NOW())
+[2014-11-05 14:18:40.530] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 2,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+[2014-11-05 14:18:46.387] [WARN] console - http参数显示功能开启...
+[2014-11-05 14:18:46.387] [INFO] console - param  :  {}
+[2014-11-05 14:18:46.387] [INFO] console - get :  {}
+[2014-11-05 14:18:46.387] [INFO] console - post :  {}
+[2014-11-05 14:18:46.388] [WARN] normal - GET /user/2
+[2014-11-05 14:18:46.438] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='2'
+[2014-11-05 14:18:46.486] [INFO] console - [ { ID: 2,
+    USERNAME: '匿名',
+    USERPHONE: '0000',
+    ISGETCODE: '0',
+    DELFLAG: '0',
+    CRTTIME: Wed Nov 05 2014 14:18:40 GMT+0800 (CST) } ]
+[2014-11-05 14:20:34.869] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-11-05 14:20:34.870] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-11-05 14:20:35.146] [INFO] console - development
+[2014-11-05 14:20:35.663] [INFO] console - h5team  listening on port 3000
+[2014-11-05 14:20:39.269] [WARN] console - http参数显示功能开启...
+[2014-11-05 14:20:39.269] [INFO] console - param  :  {}
+[2014-11-05 14:20:39.269] [INFO] console - get :  {}
+[2014-11-05 14:20:39.270] [INFO] console - post :  {}
+[2014-11-05 14:20:39.272] [INFO] normal - GET /user/3
+[2014-11-05 14:20:39.427] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='3'
+[2014-11-05 14:20:39.527] [INFO] console - INSERT INTO T_USERS(USERNAME, USERPHONE, CRTTIME) VALUES('匿名','0000',NOW())
+[2014-11-05 14:20:39.583] [INFO] console - { fieldCount: 0,
+  affectedRows: 1,
+  insertId: 3,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+[2014-11-05 14:21:44.036] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-11-05 14:21:44.037] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-11-05 14:21:44.306] [INFO] console - development
+[2014-11-05 14:21:44.822] [INFO] console - h5team  listening on port 3000
+[2014-11-05 14:21:49.126] [WARN] console - http参数显示功能开启...
+[2014-11-05 14:21:49.126] [INFO] console - param  :  {}
+[2014-11-05 14:21:49.127] [INFO] console - get :  {}
+[2014-11-05 14:21:49.127] [INFO] console - post :  {}
+[2014-11-05 14:21:49.129] [WARN] normal - GET /user/3
+[2014-11-05 14:21:49.281] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='3'
+[2014-11-05 14:21:49.330] [INFO] console - [ { ID: 3,
+    USERNAME: '匿名',
+    USERPHONE: '0000',
+    ISGETCODE: '0',
+    DELFLAG: '0',
+    CRTTIME: Wed Nov 05 2014 14:20:39 GMT+0800 (CST) } ]
+[2014-11-05 14:21:56.650] [WARN] console - http参数显示功能开启...
+[2014-11-05 14:21:56.650] [INFO] console - param  :  {}
+[2014-11-05 14:21:56.650] [INFO] console - get :  {}
+[2014-11-05 14:21:56.651] [INFO] console - post :  {}
+[2014-11-05 14:21:56.652] [INFO] normal - GET /user/4
+[2014-11-05 14:21:56.700] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='4'
+[2014-11-05 14:21:56.795] [INFO] console - INSERT INTO T_USERS(USERNAME, USERPHONE, CRTTIME) VALUES('匿名','0000',NOW())
+[2014-11-05 14:21:56.847] [INFO] console - { userName: '匿名', userPhone: '0000', id: 4 }
+[2014-11-05 14:22:04.185] [WARN] console - http参数显示功能开启...
+[2014-11-05 14:22:04.185] [INFO] console - param  :  {}
+[2014-11-05 14:22:04.185] [INFO] console - get :  {}
+[2014-11-05 14:22:04.185] [INFO] console - post :  {}
+[2014-11-05 14:22:04.186] [WARN] normal - GET /user/4
+[2014-11-05 14:22:04.237] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='4'
+[2014-11-05 14:22:04.288] [INFO] console - [ { ID: 4,
+    USERNAME: '匿名',
+    USERPHONE: '0000',
+    ISGETCODE: '0',
+    DELFLAG: '0',
+    CRTTIME: Wed Nov 05 2014 14:21:57 GMT+0800 (CST) } ]
+[2014-11-05 14:27:45.184] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-11-05 14:27:45.186] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-11-05 14:27:45.461] [INFO] console - development
+[2014-11-05 14:27:45.973] [INFO] console - h5team  listening on port 3000
+[2014-11-05 14:27:48.355] [WARN] console - http参数显示功能开启...
+[2014-11-05 14:27:48.355] [INFO] console - param  :  {}
+[2014-11-05 14:27:48.355] [INFO] console - get :  {}
+[2014-11-05 14:27:48.355] [INFO] console - post :  {}
+[2014-11-05 14:27:48.358] [INFO] normal - GET /user/5
+[2014-11-05 14:27:48.509] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='5'
+[2014-11-05 14:27:48.607] [INFO] console - INSERT INTO T_USERS(USERNAME, USERPHONE, CRTTIME) VALUES('匿名','0000',NOW())
+[2014-11-05 14:27:48.662] [INFO] console - { userName: '匿名', userPhone: '0000', ID: 5 }
+[2014-11-05 14:28:38.512] [WARN] console - http参数显示功能开启...
+[2014-11-05 14:28:38.512] [INFO] console - param  :  {}
+[2014-11-05 14:28:38.512] [INFO] console - get :  {}
+[2014-11-05 14:28:38.512] [INFO] console - post :  {}
+[2014-11-05 14:28:38.514] [WARN] normal - GET /user/5
+[2014-11-05 14:28:38.564] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='5'
+[2014-11-05 14:28:38.613] [INFO] console - [ { ID: 5,
+    USERNAME: '匿名',
+    USERPHONE: '0000',
+    ISGETCODE: '0',
+    DELFLAG: '0',
+    CRTTIME: Wed Nov 05 2014 14:27:48 GMT+0800 (CST) } ]
+[2014-11-05 14:28:44.692] [WARN] console - http参数显示功能开启...
+[2014-11-05 14:28:44.692] [INFO] console - param  :  {}
+[2014-11-05 14:28:44.692] [INFO] console - get :  {}
+[2014-11-05 14:28:44.692] [INFO] console - post :  {}
+[2014-11-05 14:28:44.693] [WARN] normal - GET /user/5
+[2014-11-05 14:28:44.744] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='5'
+[2014-11-05 14:28:44.793] [INFO] console - [ { ID: 5,
+    USERNAME: '匿名',
+    USERPHONE: '0000',
+    ISGETCODE: '0',
+    DELFLAG: '0',
+    CRTTIME: Wed Nov 05 2014 14:27:48 GMT+0800 (CST) } ]
+[2014-11-05 14:33:58.342] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-11-05 14:33:58.344] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-11-05 14:33:58.614] [INFO] console - development
+[2014-11-05 14:33:59.127] [INFO] console - h5team  listening on port 3000
+[2014-11-05 14:34:04.171] [WARN] console - http参数显示功能开启...
+[2014-11-05 14:34:04.172] [INFO] console - param  :  {}
+[2014-11-05 14:34:04.172] [INFO] console - get :  {}
+[2014-11-05 14:34:04.172] [INFO] console - post :  {}
+[2014-11-05 14:34:04.324] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='5'
+[2014-11-05 14:34:04.372] [INFO] console - [Error: test]
+Error: test
+    at module.exports (/Users/abjia/work/RealTimeApp/routes/users.js:13:20)
+    at UserService.checkUser (/Users/abjia/work/RealTimeApp/services/user.js:45:17)
+    at async.iterator.fn (/Users/abjia/work/RealTimeApp/node_modules/async/lib/async.js:641:34)
+    at Object.async.waterfall.wrapIterator [as _onImmediate] (/Users/abjia/work/RealTimeApp/node_modules/async/lib/async.js:557:34)
+    at processImmediate [as _immediateCallback] (timers.js:345:15)
+[2014-11-05 14:34:04.376] [ERROR] console - Error: test
+    at module.exports (/Users/abjia/work/RealTimeApp/routes/users.js:13:20)
+    at UserService.checkUser (/Users/abjia/work/RealTimeApp/services/user.js:45:17)
+    at async.iterator.fn (/Users/abjia/work/RealTimeApp/node_modules/async/lib/async.js:641:34)
+    at Object.async.waterfall.wrapIterator [as _onImmediate] (/Users/abjia/work/RealTimeApp/node_modules/async/lib/async.js:557:34)
+    at processImmediate [as _immediateCallback] (timers.js:345:15)
+[2014-11-05 14:34:04.377] [ERROR] normal - GET /user/5
+[2014-11-05 14:36:26.169] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-11-05 14:36:26.171] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-11-05 14:36:26.438] [INFO] console - development
+[2014-11-05 14:36:26.953] [INFO] console - h5team  listening on port 3000
+[2014-11-05 14:36:30.833] [WARN] console - http参数显示功能开启...
+[2014-11-05 14:36:30.834] [INFO] console - param  :  {}
+[2014-11-05 14:36:30.834] [INFO] console - get :  {}
+[2014-11-05 14:36:30.834] [INFO] console - post :  {}
+[2014-11-05 14:36:30.985] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='5'
+[2014-11-05 14:36:31.034] [INFO] console - [Error: test]
+Error: test
+    at module.exports (/Users/abjia/work/RealTimeApp/routes/users.js:13:20)
+    at UserService.checkUser (/Users/abjia/work/RealTimeApp/services/user.js:45:17)
+    at async.iterator.fn (/Users/abjia/work/RealTimeApp/node_modules/async/lib/async.js:641:34)
+    at Object.async.waterfall.wrapIterator [as _onImmediate] (/Users/abjia/work/RealTimeApp/node_modules/async/lib/async.js:557:34)
+    at processImmediate [as _immediateCallback] (timers.js:345:15)
+[2014-11-05 14:36:31.035] [ERROR] console - Error: test
+    at module.exports (/Users/abjia/work/RealTimeApp/routes/users.js:13:20)
+    at UserService.checkUser (/Users/abjia/work/RealTimeApp/services/user.js:45:17)
+    at async.iterator.fn (/Users/abjia/work/RealTimeApp/node_modules/async/lib/async.js:641:34)
+    at Object.async.waterfall.wrapIterator [as _onImmediate] (/Users/abjia/work/RealTimeApp/node_modules/async/lib/async.js:557:34)
+    at processImmediate [as _immediateCallback] (timers.js:345:15)
+[2014-11-05 14:36:31.036] [ERROR] normal - GET /user/5
+[2014-11-05 14:36:41.717] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-11-05 14:36:41.718] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-11-05 14:36:42.008] [INFO] console - development
+[2014-11-05 14:36:42.518] [INFO] console - h5team  listening on port 3000
+[2014-11-05 14:41:37.540] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-11-05 14:41:37.541] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-11-05 14:41:37.804] [INFO] console - development
+[2014-11-05 14:41:38.307] [INFO] console - h5team  listening on port 3000
+[2014-11-05 14:41:43.897] [WARN] console - http参数显示功能开启...
+[2014-11-05 14:41:43.897] [INFO] console - param  :  {}
+[2014-11-05 14:41:43.898] [INFO] console - get :  {}
+[2014-11-05 14:41:43.898] [INFO] console - post :  {}
+[2014-11-05 14:41:43.901] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (/Users/abjia/work/RealTimeApp/app.js:48:15)
+    at trim_prefix (/Users/abjia/work/node_modules/express/lib/router/index.js:226:17)
+    at proto.handle.c (/Users/abjia/work/node_modules/express/lib/router/index.js:198:9)
+    at Function.proto.process_params (/Users/abjia/work/node_modules/express/lib/router/index.js:251:12)
+    at next (/Users/abjia/work/node_modules/express/lib/router/index.js:189:19)
+    at next (/Users/abjia/work/node_modules/express/lib/router/index.js:150:14)
+    at next (/Users/abjia/work/node_modules/express/lib/router/index.js:166:38)
+    at Function.proto.handle (/Users/abjia/work/node_modules/express/lib/router/index.js:234:5)
+    at Layer.router (/Users/abjia/work/node_modules/express/lib/router/index.js:23:12)
+    at trim_prefix (/Users/abjia/work/node_modules/express/lib/router/index.js:226:17)
+[2014-11-05 14:41:43.902] [ERROR] normal - GET /user/
+[2014-11-05 14:41:50.189] [WARN] console - http参数显示功能开启...
+[2014-11-05 14:41:50.189] [INFO] console - param  :  {}
+[2014-11-05 14:41:50.190] [INFO] console - get :  {}
+[2014-11-05 14:41:50.190] [INFO] console - post :  {}
+[2014-11-05 14:41:50.347] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='2'
+[2014-11-05 14:41:50.399] [INFO] normal - GET /user/2
+[2014-11-05 14:41:55.694] [WARN] console - http参数显示功能开启...
+[2014-11-05 14:41:55.695] [INFO] console - param  :  {}
+[2014-11-05 14:41:55.695] [INFO] console - get :  {}
+[2014-11-05 14:41:55.695] [INFO] console - post :  {}
+[2014-11-05 14:41:55.745] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='3'
+[2014-11-05 14:41:55.795] [INFO] normal - GET /user/3
+[2014-11-05 14:42:31.971] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-11-05 14:42:31.973] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-11-05 14:42:32.236] [INFO] console - development
+[2014-11-05 14:42:32.756] [INFO] console - h5team  listening on port 3000
+[2014-11-05 14:42:34.608] [WARN] console - http参数显示功能开启...
+[2014-11-05 14:42:34.609] [INFO] console - param  :  {}
+[2014-11-05 14:42:34.609] [INFO] console - get :  {}
+[2014-11-05 14:42:34.609] [INFO] console - post :  {}
+[2014-11-05 14:42:34.761] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='3'
+[2014-11-05 14:42:34.811] [INFO] normal - GET /user/3
+[2014-11-05 15:11:23.119] [WARN] console - http参数显示功能开启...
+[2014-11-05 15:11:23.119] [INFO] console - param  :  {}
+[2014-11-05 15:11:23.119] [INFO] console - get :  {}
+[2014-11-05 15:11:23.120] [INFO] console - post :  {}
+[2014-11-05 15:11:23.169] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='2'
+[2014-11-05 15:11:23.219] [INFO] normal - GET /user/2
+[2014-11-05 15:13:23.681] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-11-05 15:13:23.682] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-11-05 15:13:23.989] [INFO] console - development
+[2014-11-05 15:13:24.503] [INFO] console - h5team  listening on port 3000
+[2014-11-05 15:14:21.509] [WARN] console - http参数显示功能开启...
+[2014-11-05 15:14:21.509] [INFO] console - param  :  {}
+[2014-11-05 15:14:21.509] [INFO] console - get :  {}
+[2014-11-05 15:14:21.509] [INFO] console - post :  {}
+[2014-11-05 15:14:21.663] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID=NULL
+[2014-11-05 15:14:21.758] [INFO] console - INSERT INTO T_USERS(USERNAME, USERPHONE, CRTTIME) VALUES('匿名','0000',NOW())
+[2014-11-05 15:14:21.878] [INFO] normal - GET /user
+[2014-11-05 15:14:29.306] [WARN] console - http参数显示功能开启...
+[2014-11-05 15:14:29.306] [INFO] console - param  :  {}
+[2014-11-05 15:14:29.307] [INFO] console - get :  {}
+[2014-11-05 15:14:29.307] [INFO] console - post :  {}
+[2014-11-05 15:14:29.359] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID=NULL
+[2014-11-05 15:14:29.456] [INFO] console - INSERT INTO T_USERS(USERNAME, USERPHONE, CRTTIME) VALUES('匿名','0000',NOW())
+[2014-11-05 15:14:29.517] [INFO] normal - GET /user
+[2014-11-05 15:17:10.390] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-11-05 15:17:10.391] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-11-05 15:17:10.666] [INFO] console - development
+[2014-11-05 15:17:11.265] [INFO] console - h5team  listening on port 3000
+[2014-11-05 15:17:15.835] [WARN] console - http参数显示功能开启...
+[2014-11-05 15:17:15.836] [INFO] console - param  :  {}
+[2014-11-05 15:17:15.836] [INFO] console - get :  {}
+[2014-11-05 15:17:15.836] [INFO] console - post :  {}
+[2014-11-05 15:17:15.988] [WARN] console - http参数显示功能开启...
+[2014-11-05 15:17:15.989] [INFO] console - param  :  {}
+[2014-11-05 15:17:15.989] [INFO] console - get :  {}
+[2014-11-05 15:17:15.989] [INFO] console - post :  {}
+[2014-11-05 15:17:15.991] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID=NULL
+[2014-11-05 15:17:16.088] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID=NULL
+[2014-11-05 15:17:16.186] [INFO] console - INSERT INTO T_USERS(USERNAME, USERPHONE, CRTTIME) VALUES('匿名','0000',NOW())
+[2014-11-05 15:17:16.187] [INFO] console - INSERT INTO T_USERS(USERNAME, USERPHONE, CRTTIME) VALUES('匿名','0000',NOW())
+[2014-11-05 15:17:16.241] [INFO] normal - GET /user
+[2014-11-05 15:17:16.245] [INFO] normal - GET /user
+[2014-11-05 15:17:22.799] [WARN] console - http参数显示功能开启...
+[2014-11-05 15:17:22.799] [INFO] console - param  :  {}
+[2014-11-05 15:17:22.799] [INFO] console - get :  {}
+[2014-11-05 15:17:22.800] [INFO] console - post :  {}
+[2014-11-05 15:17:22.849] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID=NULL
+[2014-11-05 15:17:22.945] [INFO] console - INSERT INTO T_USERS(USERNAME, USERPHONE, CRTTIME) VALUES('匿名','0000',NOW())
+[2014-11-05 15:17:23.000] [INFO] normal - GET /user
+[2014-11-05 15:17:47.478] [WARN] console - http参数显示功能开启...
+[2014-11-05 15:17:47.479] [INFO] console - param  :  {}
+[2014-11-05 15:17:47.479] [INFO] console - get :  { id: '10' }
+[2014-11-05 15:17:47.479] [INFO] console - post :  {}
+[2014-11-05 15:17:47.530] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='10'
+[2014-11-05 15:17:47.579] [INFO] normal - GET /user?id=10
+[2014-11-05 15:17:51.984] [WARN] console - http参数显示功能开启...
+[2014-11-05 15:17:51.984] [INFO] console - param  :  {}
+[2014-11-05 15:17:51.984] [INFO] console - get :  { id: '10' }
+[2014-11-05 15:17:51.984] [INFO] console - post :  {}
+[2014-11-05 15:17:52.035] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='10'
+[2014-11-05 15:17:52.084] [INFO] normal - GET /user?id=10
+[2014-11-05 15:17:53.659] [WARN] console - http参数显示功能开启...
+[2014-11-05 15:17:53.659] [INFO] console - param  :  {}
+[2014-11-05 15:17:53.659] [INFO] console - get :  { id: '10' }
+[2014-11-05 15:17:53.659] [INFO] console - post :  {}
+[2014-11-05 15:17:53.712] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='10'
+[2014-11-05 15:17:53.760] [INFO] normal - GET /user?id=10
+[2014-11-05 15:18:03.973] [WARN] console - http参数显示功能开启...
+[2014-11-05 15:18:03.974] [INFO] console - param  :  {}
+[2014-11-05 15:18:03.974] [INFO] console - get :  {}
+[2014-11-05 15:18:03.974] [INFO] console - post :  {}
+[2014-11-05 15:18:04.024] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID=NULL
+[2014-11-05 15:18:04.119] [INFO] console - INSERT INTO T_USERS(USERNAME, USERPHONE, CRTTIME) VALUES('匿名','0000',NOW())
+[2014-11-05 15:18:04.172] [INFO] normal - GET /user
+[2014-11-05 15:18:08.188] [WARN] console - http参数显示功能开启...
+[2014-11-05 15:18:08.188] [INFO] console - param  :  {}
+[2014-11-05 15:18:08.189] [INFO] console - get :  { id: '11' }
+[2014-11-05 15:18:08.189] [INFO] console - post :  {}
+[2014-11-05 15:18:08.239] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='11'
+[2014-11-05 15:18:08.292] [INFO] normal - GET /user?id=11
+[2014-11-05 15:18:41.688] [WARN] console - http参数显示功能开启...
+[2014-11-05 15:18:41.689] [INFO] console - param  :  {}
+[2014-11-05 15:18:41.689] [INFO] console - get :  {}
+[2014-11-05 15:18:41.689] [INFO] console - post :  {}
+[2014-11-05 15:18:41.695] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (/Users/abjia/work/RealTimeApp/app.js:48:15)
+    at trim_prefix (/Users/abjia/work/node_modules/express/lib/router/index.js:226:17)
+    at proto.handle.c (/Users/abjia/work/node_modules/express/lib/router/index.js:198:9)
+    at Function.proto.process_params (/Users/abjia/work/node_modules/express/lib/router/index.js:251:12)
+    at next (/Users/abjia/work/node_modules/express/lib/router/index.js:189:19)
+    at next (/Users/abjia/work/node_modules/express/lib/router/index.js:150:14)
+    at next (/Users/abjia/work/node_modules/express/lib/router/index.js:166:38)
+    at Function.proto.handle (/Users/abjia/work/node_modules/express/lib/router/index.js:234:5)
+    at Layer.router (/Users/abjia/work/node_modules/express/lib/router/index.js:23:12)
+    at trim_prefix (/Users/abjia/work/node_modules/express/lib/router/index.js:226:17)
+[2014-11-05 15:18:41.696] [ERROR] normal - GET /user/2
+[2014-11-05 15:18:45.470] [WARN] console - http参数显示功能开启...
+[2014-11-05 15:18:45.470] [INFO] console - param  :  {}
+[2014-11-05 15:18:45.470] [INFO] console - get :  { id: '11' }
+[2014-11-05 15:18:45.470] [INFO] console - post :  {}
+[2014-11-05 15:18:45.520] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='11'
+[2014-11-05 15:18:45.569] [INFO] normal - GET /user?id=11
+[2014-11-05 15:18:47.314] [WARN] console - http参数显示功能开启...
+[2014-11-05 15:18:47.315] [INFO] console - param  :  {}
+[2014-11-05 15:18:47.315] [INFO] console - get :  { id: '11' }
+[2014-11-05 15:18:47.315] [INFO] console - post :  {}
+[2014-11-05 15:18:47.364] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='11'
+[2014-11-05 15:18:47.413] [INFO] normal - GET /user?id=11
+[2014-11-05 15:20:49.793] [WARN] console - http参数显示功能开启...
+[2014-11-05 15:20:49.793] [INFO] console - param  :  {}
+[2014-11-05 15:20:49.794] [INFO] console - get :  {}
+[2014-11-05 15:20:49.794] [INFO] console - post :  {}
+[2014-11-05 15:20:49.797] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (/Users/abjia/work/RealTimeApp/app.js:48:15)
+    at trim_prefix (/Users/abjia/work/node_modules/express/lib/router/index.js:226:17)
+    at proto.handle.c (/Users/abjia/work/node_modules/express/lib/router/index.js:198:9)
+    at Function.proto.process_params (/Users/abjia/work/node_modules/express/lib/router/index.js:251:12)
+    at next (/Users/abjia/work/node_modules/express/lib/router/index.js:189:19)
+    at next (/Users/abjia/work/node_modules/express/lib/router/index.js:150:14)
+    at next (/Users/abjia/work/node_modules/express/lib/router/index.js:166:38)
+    at Function.proto.handle (/Users/abjia/work/node_modules/express/lib/router/index.js:234:5)
+    at Layer.router (/Users/abjia/work/node_modules/express/lib/router/index.js:23:12)
+    at trim_prefix (/Users/abjia/work/node_modules/express/lib/router/index.js:226:17)
+[2014-11-05 15:20:49.797] [ERROR] normal - GET /user/2
+[2014-11-05 15:25:22.711] [WARN] console - http参数显示功能开启...
+[2014-11-05 15:25:22.712] [INFO] console - param  :  {}
+[2014-11-05 15:25:22.712] [INFO] console - get :  {}
+[2014-11-05 15:25:22.712] [INFO] console - post :  {}
+[2014-11-05 15:25:22.714] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (/Users/abjia/work/RealTimeApp/app.js:48:15)
+    at trim_prefix (/Users/abjia/work/node_modules/express/lib/router/index.js:226:17)
+    at proto.handle.c (/Users/abjia/work/node_modules/express/lib/router/index.js:198:9)
+    at Function.proto.process_params (/Users/abjia/work/node_modules/express/lib/router/index.js:251:12)
+    at next (/Users/abjia/work/node_modules/express/lib/router/index.js:189:19)
+    at next (/Users/abjia/work/node_modules/express/lib/router/index.js:150:14)
+    at next (/Users/abjia/work/node_modules/express/lib/router/index.js:166:38)
+    at Function.proto.handle (/Users/abjia/work/node_modules/express/lib/router/index.js:234:5)
+    at Layer.router (/Users/abjia/work/node_modules/express/lib/router/index.js:23:12)
+    at trim_prefix (/Users/abjia/work/node_modules/express/lib/router/index.js:226:17)
+[2014-11-05 15:25:22.715] [ERROR] normal - GET /user/2
+[2014-11-05 15:25:24.973] [WARN] console - http参数显示功能开启...
+[2014-11-05 15:25:24.973] [INFO] console - param  :  {}
+[2014-11-05 15:25:24.974] [INFO] console - get :  {}
+[2014-11-05 15:25:24.974] [INFO] console - post :  {}
+[2014-11-05 15:25:24.977] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (/Users/abjia/work/RealTimeApp/app.js:48:15)
+    at trim_prefix (/Users/abjia/work/node_modules/express/lib/router/index.js:226:17)
+    at proto.handle.c (/Users/abjia/work/node_modules/express/lib/router/index.js:198:9)
+    at Function.proto.process_params (/Users/abjia/work/node_modules/express/lib/router/index.js:251:12)
+    at next (/Users/abjia/work/node_modules/express/lib/router/index.js:189:19)
+    at next (/Users/abjia/work/node_modules/express/lib/router/index.js:150:14)
+    at next (/Users/abjia/work/node_modules/express/lib/router/index.js:166:38)
+    at Function.proto.handle (/Users/abjia/work/node_modules/express/lib/router/index.js:234:5)
+    at Layer.router (/Users/abjia/work/node_modules/express/lib/router/index.js:23:12)
+    at trim_prefix (/Users/abjia/work/node_modules/express/lib/router/index.js:226:17)
+[2014-11-05 15:25:24.978] [ERROR] normal - GET /user/2
+[2014-11-05 15:25:37.933] [WARN] console - http参数显示功能开启...
+[2014-11-05 15:25:37.934] [INFO] console - param  :  {}
+[2014-11-05 15:25:37.934] [INFO] console - get :  { id: '11' }
+[2014-11-05 15:25:37.934] [INFO] console - post :  {}
+[2014-11-05 15:25:37.985] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='11'
+[2014-11-05 15:25:38.034] [WARN] normal - GET /user?id=11
+[2014-11-05 15:26:02.333] [WARN] console - http参数显示功能开启...
+[2014-11-05 15:26:02.334] [INFO] console - param  :  {}
+[2014-11-05 15:26:02.334] [INFO] console - get :  {}
+[2014-11-05 15:26:02.334] [INFO] console - post :  {}
+[2014-11-05 15:26:02.335] [ERROR] console - Error: 资源未找到
+    at Layer.app.use.res.charset [as handle] (/Users/abjia/work/RealTimeApp/app.js:48:15)
+    at trim_prefix (/Users/abjia/work/node_modules/express/lib/router/index.js:226:17)
+    at proto.handle.c (/Users/abjia/work/node_modules/express/lib/router/index.js:198:9)
+    at Function.proto.process_params (/Users/abjia/work/node_modules/express/lib/router/index.js:251:12)
+    at next (/Users/abjia/work/node_modules/express/lib/router/index.js:189:19)
+    at next (/Users/abjia/work/node_modules/express/lib/router/index.js:150:14)
+    at next (/Users/abjia/work/node_modules/express/lib/router/index.js:166:38)
+    at Function.proto.handle (/Users/abjia/work/node_modules/express/lib/router/index.js:234:5)
+    at Layer.router (/Users/abjia/work/node_modules/express/lib/router/index.js:23:12)
+    at trim_prefix (/Users/abjia/work/node_modules/express/lib/router/index.js:226:17)
+[2014-11-05 15:26:02.336] [ERROR] normal - GET /user/2
+[2014-11-05 15:27:33.271] [WARN] console - http参数显示功能开启...
+[2014-11-05 15:27:33.271] [INFO] console - param  :  {}
+[2014-11-05 15:27:33.272] [INFO] console - get :  { id: '11' }
+[2014-11-05 15:27:33.272] [INFO] console - post :  {}
+[2014-11-05 15:27:33.320] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='11'
+[2014-11-05 15:27:33.369] [INFO] normal - GET /user?id=11
+[2014-11-05 15:29:12.184] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-11-05 15:29:12.185] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-11-05 15:29:12.464] [INFO] console - development
+[2014-11-05 15:29:12.977] [INFO] console - h5team  listening on port 3000
+[2014-11-05 15:29:14.956] [WARN] console - http参数显示功能开启...
+[2014-11-05 15:29:14.956] [INFO] console - param  :  {}
+[2014-11-05 15:29:14.956] [INFO] console - get :  { id: '11' }
+[2014-11-05 15:29:14.957] [INFO] console - post :  {}
+[2014-11-05 15:29:15.106] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='11'
+[2014-11-05 15:29:15.157] [INFO] normal - GET /user?id=11
+[2014-11-05 15:29:15.165] [INFO] console - undefined
+[2014-11-05 15:30:17.797] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-11-05 15:30:17.798] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-11-05 15:30:18.071] [INFO] console - development
+[2014-11-05 15:30:18.608] [INFO] console - h5team  listening on port 3000
+[2014-11-05 15:30:18.611] [INFO] console - undefined
+[2014-11-05 15:30:21.180] [INFO] console - disconnect... Yogwf9mtSSBeCgAzAAAA
+[2014-11-05 15:30:21.755] [WARN] console - http参数显示功能开启...
+[2014-11-05 15:30:21.755] [INFO] console - param  :  {}
+[2014-11-05 15:30:21.755] [INFO] console - get :  { id: '11' }
+[2014-11-05 15:30:21.756] [INFO] console - post :  {}
+[2014-11-05 15:30:21.906] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='11'
+[2014-11-05 15:30:21.958] [INFO] normal - GET /user?id=11
+[2014-11-05 15:30:21.966] [INFO] console - undefined
+[2014-11-05 15:30:51.024] [INFO] console - disconnect... XecMQF0Mqn_KCh9KAAAB
+[2014-11-05 15:31:00.228] [INFO] console - undefined
+[2014-11-05 15:43:17.145] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-11-05 15:43:17.146] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-11-05 15:43:17.418] [INFO] console - development
+[2014-11-05 15:43:17.943] [INFO] console - h5team  listening on port 3000
+[2014-11-05 15:43:18.314] [INFO] console - { name: '/',
+  server: 
+   { nsps: { '/': [Circular] },
+     _path: '/socket.io',
+     _serveClient: true,
+     _adapter: [Function: Adapter],
+     _origins: '*:*',
+     sockets: [Circular],
+     eio: 
+      { clients: [Object],
+        clientsCount: 1,
+        pingTimeout: 60000,
+        pingInterval: 25000,
+        upgradeTimeout: 10000,
+        maxHttpBufferSize: 100000000,
+        transports: [Object],
+        allowUpgrades: true,
+        allowRequest: [Function],
+        cookie: 'io',
+        ws: [Object],
+        _events: [Object] },
+     httpServer: 
+      { domain: null,
+        _events: [Object],
+        _maxListeners: 10,
+        _connections: 1,
+        connections: [Getter/Setter],
+        _handle: [Object],
+        _usingSlaves: false,
+        _slaves: [],
+        allowHalfOpen: true,
+        httpAllowHalfOpen: false,
+        timeout: 120000,
+        _connectionKey: '4:0.0.0.0:3000' },
+     engine: 
+      { clients: [Object],
+        clientsCount: 1,
+        pingTimeout: 60000,
+        pingInterval: 25000,
+        upgradeTimeout: 10000,
+        maxHttpBufferSize: 100000000,
+        transports: [Object],
+        allowUpgrades: true,
+        allowRequest: [Function],
+        cookie: 'io',
+        ws: [Object],
+        _events: [Object] } },
+  sockets: 
+   [ { nsp: [Circular],
+       server: [Object],
+       adapter: [Object],
+       id: '-mQa0RO_1N6ozrKYAAAA',
+       client: [Object],
+       conn: [Object],
+       rooms: [],
+       acks: {},
+       connected: true,
+       disconnected: false,
+       handshake: [Object] } ],
+  connected: 
+   { '-mQa0RO_1N6ozrKYAAAA': 
+      { nsp: [Circular],
+        server: [Object],
+        adapter: [Object],
+        id: '-mQa0RO_1N6ozrKYAAAA',
+        client: [Object],
+        conn: [Object],
+        rooms: [],
+        acks: {},
+        connected: true,
+        disconnected: false,
+        handshake: [Object] } },
+  fns: [],
+  ids: 0,
+  acks: {},
+  adapter: 
+   { nsp: [Circular],
+     rooms: { '-mQa0RO_1N6ozrKYAAAA': [Object] },
+     sids: { '-mQa0RO_1N6ozrKYAAAA': [Object] },
+     encoder: {} },
+  _events: { connection: [Function] } }
+[2014-11-05 16:02:20.326] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-11-05 16:02:20.327] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-11-05 16:02:20.587] [INFO] console - development
+[2014-11-05 16:02:21.103] [INFO] console - h5team  listening on port 3000
+[2014-11-05 16:02:24.688] [INFO] console - disconnect... y0C_9hOYuPQbodPIAAAA
+[2014-11-05 16:02:25.246] [WARN] console - http参数显示功能开启...
+[2014-11-05 16:02:25.246] [INFO] console - param  :  {}
+[2014-11-05 16:02:25.246] [INFO] console - get :  { id: '11' }
+[2014-11-05 16:02:25.247] [INFO] console - post :  {}
+[2014-11-05 16:02:25.397] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='11'
+[2014-11-05 16:02:25.447] [INFO] normal - GET /user?id=11
+[2014-11-05 16:02:33.986] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-11-05 16:02:33.987] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-11-05 16:02:34.243] [INFO] console - development
+[2014-11-05 16:02:34.830] [INFO] console - h5team  listening on port 3000
+[2014-11-05 16:07:35.436] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-11-05 16:07:35.437] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-11-05 16:07:35.710] [INFO] console - development
+[2014-11-05 16:07:36.237] [INFO] console - h5team  listening on port 3000
+[2014-11-05 16:07:41.407] [INFO] console - disconnect... DPB_1zZwq0ua94SCAAAA
+[2014-11-05 16:07:42.246] [WARN] console - http参数显示功能开启...
+[2014-11-05 16:07:42.246] [INFO] console - param  :  {}
+[2014-11-05 16:07:42.246] [INFO] console - get :  { id: '11' }
+[2014-11-05 16:07:42.247] [INFO] console - post :  {}
+[2014-11-05 16:07:42.396] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='11'
+[2014-11-05 16:07:42.447] [INFO] normal - GET /user?id=11
+[2014-11-05 16:07:42.482] [INFO] console - 11
+[2014-11-05 16:13:36.310] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-11-05 16:13:36.311] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-11-05 16:13:36.608] [INFO] console - development
+[2014-11-05 16:13:37.174] [INFO] console - h5team  listening on port 3000
+[2014-11-05 16:13:42.795] [INFO] console - disconnect... kzyPaMgWGdLm41s0AAAA
+[2014-11-05 16:13:43.432] [WARN] console - http参数显示功能开启...
+[2014-11-05 16:13:43.433] [INFO] console - param  :  {}
+[2014-11-05 16:13:43.433] [INFO] console - get :  { id: '11' }
+[2014-11-05 16:13:43.433] [INFO] console - post :  {}
+[2014-11-05 16:13:43.585] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='11'
+[2014-11-05 16:13:43.635] [INFO] normal - GET /user?id=11
+[2014-11-05 16:13:51.526] [INFO] console - disconnect... ntRj5AwWaCdBmwRuAAAB
+[2014-11-05 16:48:48.642] [WARN] console - http参数显示功能开启...
+[2014-11-05 16:48:48.642] [INFO] console - param  :  {}
+[2014-11-05 16:48:48.642] [INFO] console - get :  { id: '11' }
+[2014-11-05 16:48:48.643] [INFO] console - post :  {}
+[2014-11-05 16:48:48.789] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='11'
+[2014-11-05 16:48:48.838] [WARN] normal - GET /user?id=11
+[2014-11-05 16:52:42.605] [INFO] console - disconnect... 4axsmM-BW5kdtXzxAAAC
+[2014-11-05 16:52:43.208] [WARN] console - http参数显示功能开启...
+[2014-11-05 16:52:43.209] [INFO] console - param  :  {}
+[2014-11-05 16:52:43.209] [INFO] console - get :  { id: '11' }
+[2014-11-05 16:52:43.209] [INFO] console - post :  {}
+[2014-11-05 16:52:43.258] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='11'
+[2014-11-05 16:52:43.307] [INFO] normal - GET /user?id=11
+[2014-11-05 16:54:35.188] [INFO] console - disconnect... qPYCQpGHgQG8EJbpAAAD
+[2014-11-05 16:54:36.118] [WARN] console - http参数显示功能开启...
+[2014-11-05 16:54:36.118] [INFO] console - param  :  {}
+[2014-11-05 16:54:36.118] [INFO] console - get :  { id: '11' }
+[2014-11-05 16:54:36.118] [INFO] console - post :  {}
+[2014-11-05 16:54:36.167] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='11'
+[2014-11-05 16:54:36.218] [INFO] normal - GET /user?id=11
+[2014-11-05 16:54:44.366] [INFO] console - disconnect... b66-goWCGHoQ5Y1CAAAE
+[2014-11-05 16:54:44.945] [WARN] console - http参数显示功能开启...
+[2014-11-05 16:54:44.945] [INFO] console - param  :  {}
+[2014-11-05 16:54:44.945] [INFO] console - get :  { id: '11' }
+[2014-11-05 16:54:44.945] [INFO] console - post :  {}
+[2014-11-05 16:54:44.993] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='11'
+[2014-11-05 16:54:45.041] [INFO] normal - GET /user?id=11
+[2014-11-05 16:56:23.673] [INFO] console - disconnect... -IAikcmXY-Ig98BCAAAF
+[2014-11-05 16:56:24.231] [WARN] console - http参数显示功能开启...
+[2014-11-05 16:56:24.231] [INFO] console - param  :  {}
+[2014-11-05 16:56:24.231] [INFO] console - get :  { id: '11' }
+[2014-11-05 16:56:24.231] [INFO] console - post :  {}
+[2014-11-05 16:56:24.278] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='11'
+[2014-11-05 16:56:24.326] [INFO] normal - GET /user?id=11
+[2014-11-05 16:56:30.014] [INFO] console - disconnect... RshQGxb2qk3iIs6IAAAG
+[2014-11-05 16:56:30.511] [WARN] console - http参数显示功能开启...
+[2014-11-05 16:56:30.511] [INFO] console - param  :  {}
+[2014-11-05 16:56:30.512] [INFO] console - get :  { id: '11' }
+[2014-11-05 16:56:30.512] [INFO] console - post :  {}
+[2014-11-05 16:56:30.559] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='11'
+[2014-11-05 16:56:30.608] [INFO] normal - GET /user?id=11
+[2014-11-05 17:01:32.251] [INFO] console - disconnect... i-q0eYhH780Sl_ZcAAAH
+[2014-11-05 17:01:33.900] [WARN] console - http参数显示功能开启...
+[2014-11-05 17:01:33.901] [INFO] console - param  :  {}
+[2014-11-05 17:01:33.901] [INFO] console - get :  { id: '11' }
+[2014-11-05 17:01:33.901] [INFO] console - post :  {}
+[2014-11-05 17:01:33.949] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='11'
+[2014-11-05 17:01:33.998] [INFO] normal - GET /user?id=11
+[2014-11-05 17:01:37.711] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-11-05 17:01:37.712] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-11-05 17:01:37.986] [INFO] console - development
+[2014-11-05 17:01:38.487] [INFO] console - h5team  listening on port 3000
+[2014-11-05 17:01:41.536] [INFO] console - disconnect... CSNjyBHL5OG7gmMvAAAA
+[2014-11-05 17:01:41.951] [WARN] console - http参数显示功能开启...
+[2014-11-05 17:01:41.952] [INFO] console - param  :  {}
+[2014-11-05 17:01:41.952] [INFO] console - get :  { id: '11' }
+[2014-11-05 17:01:41.952] [INFO] console - post :  {}
+[2014-11-05 17:01:42.104] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='11'
+[2014-11-05 17:01:42.155] [INFO] normal - GET /user?id=11
+[2014-11-05 17:02:31.713] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-11-05 17:02:31.714] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-11-05 17:02:31.988] [INFO] console - development
+[2014-11-05 17:02:32.540] [INFO] console - h5team  listening on port 3000
+[2014-11-05 17:02:33.732] [WARN] console - http参数显示功能开启...
+[2014-11-05 17:02:33.732] [INFO] console - param  :  {}
+[2014-11-05 17:02:33.732] [INFO] console - get :  { id: '11' }
+[2014-11-05 17:02:33.733] [INFO] console - post :  {}
+[2014-11-05 17:02:33.885] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='11'
+[2014-11-05 17:02:33.936] [INFO] normal - GET /user?id=11
+[2014-11-05 17:03:32.137] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-11-05 17:03:32.139] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-11-05 17:03:32.388] [INFO] console - development
+[2014-11-05 17:03:32.877] [INFO] console - h5team  listening on port 3000
+[2014-11-05 17:03:35.038] [INFO] console - disconnect... sxpBE5EqfMgB-wfRAAAA
+[2014-11-05 17:03:35.433] [WARN] console - http参数显示功能开启...
+[2014-11-05 17:03:35.434] [INFO] console - param  :  {}
+[2014-11-05 17:03:35.434] [INFO] console - get :  { id: '11' }
+[2014-11-05 17:03:35.434] [INFO] console - post :  {}
+[2014-11-05 17:03:35.584] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='11'
+[2014-11-05 17:03:35.634] [INFO] normal - GET /user?id=11
+[2014-11-05 17:03:49.682] [WARN] console - http参数显示功能开启...
+[2014-11-05 17:03:49.682] [INFO] console - param  :  {}
+[2014-11-05 17:03:49.682] [INFO] console - get :  { id: '11' }
+[2014-11-05 17:03:49.682] [INFO] console - post :  {}
+[2014-11-05 17:03:49.731] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='11'
+[2014-11-05 17:03:49.781] [WARN] normal - GET /user?id=11
+[2014-11-05 17:04:15.510] [INFO] console - disconnect... 4d7vgvhqqqU7yoIcAAAC
+[2014-11-05 17:04:15.891] [WARN] console - http参数显示功能开启...
+[2014-11-05 17:04:15.891] [INFO] console - param  :  {}
+[2014-11-05 17:04:15.891] [INFO] console - get :  { id: '11' }
+[2014-11-05 17:04:15.892] [INFO] console - post :  {}
+[2014-11-05 17:04:15.939] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='11'
+[2014-11-05 17:04:15.988] [INFO] normal - GET /user?id=11
+[2014-11-05 17:04:22.626] [INFO] console - disconnect... wNRUxYocSoCO0A5fAAAB
+[2014-11-05 17:04:23.024] [WARN] console - http参数显示功能开启...
+[2014-11-05 17:04:23.024] [INFO] console - param  :  {}
+[2014-11-05 17:04:23.025] [INFO] console - get :  { id: '11' }
+[2014-11-05 17:04:23.025] [INFO] console - post :  {}
+[2014-11-05 17:04:23.073] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='11'
+[2014-11-05 17:04:23.122] [INFO] normal - GET /user?id=11
+[2014-11-05 17:04:30.473] [INFO] console - disconnect... ku34aunhJoeB3qUWAAAD
+[2014-11-05 17:04:30.865] [WARN] console - http参数显示功能开启...
+[2014-11-05 17:04:30.865] [INFO] console - param  :  {}
+[2014-11-05 17:04:30.865] [INFO] console - get :  { id: '11' }
+[2014-11-05 17:04:30.865] [INFO] console - post :  {}
+[2014-11-05 17:04:30.913] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='11'
+[2014-11-05 17:04:30.964] [INFO] normal - GET /user?id=11
+[2014-11-05 17:08:14.913] [INFO] console - disconnect... ZwP5eJwPEovRkkOpAAAE
+[2014-11-05 17:08:14.913] [INFO] console - disconnect... LYvVMPnFSi4oiT4hAAAF
+[2014-11-05 17:08:14.921] [WARN] console - http参数显示功能开启...
+[2014-11-05 17:08:14.921] [INFO] console - param  :  {}
+[2014-11-05 17:08:14.921] [INFO] console - get :  {}
+[2014-11-05 17:08:14.921] [INFO] console - post :  {}
+[2014-11-05 17:08:14.921] [WARN] console - http参数显示功能开启...
+[2014-11-05 17:08:14.921] [INFO] console - param  :  {}
+[2014-11-05 17:08:14.921] [INFO] console - get :  { id: '11' }
+[2014-11-05 17:08:14.922] [INFO] console - post :  {}
+[2014-11-05 17:08:14.922] [WARN] console - http参数显示功能开启...
+[2014-11-05 17:08:14.922] [INFO] console - param  :  {}
+[2014-11-05 17:08:14.923] [INFO] console - get :  { id: '11' }
+[2014-11-05 17:08:14.923] [INFO] console - post :  {}
+[2014-11-05 17:08:14.973] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID=NULL
+[2014-11-05 17:08:15.068] [INFO] console - INSERT INTO T_USERS(USERNAME, USERPHONE, CRTTIME) VALUES('匿名','0000',NOW())
+[2014-11-05 17:08:15.070] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='11'
+[2014-11-05 17:08:15.071] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID='11'
+[2014-11-05 17:08:15.119] [INFO] normal - GET /user?id=11
+[2014-11-05 17:08:15.120] [INFO] normal - GET /user?id=11
+[2014-11-05 17:08:15.138] [INFO] normal - GET /user
+[2014-11-05 17:08:53.780] [WARN] console - http参数显示功能开启...
+[2014-11-05 17:08:53.780] [INFO] console - param  :  {}
+[2014-11-05 17:08:53.780] [INFO] console - get :  {}
+[2014-11-05 17:08:53.780] [INFO] console - post :  {}
+[2014-11-05 17:08:53.828] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID=NULL
+[2014-11-05 17:08:53.924] [INFO] console - INSERT INTO T_USERS(USERNAME, USERPHONE, CRTTIME) VALUES('匿名','0000',NOW())
+[2014-11-05 17:08:53.977] [INFO] normal - GET /user
+[2014-11-05 17:08:57.102] [WARN] console - http参数显示功能开启...
+[2014-11-05 17:08:57.102] [INFO] console - param  :  {}
+[2014-11-05 17:08:57.103] [INFO] console - get :  {}
+[2014-11-05 17:08:57.103] [INFO] console - post :  {}
+[2014-11-05 17:08:57.155] [INFO] console - SELECT * FROM T_USERS  U  WHERE  U.ID=NULL
+[2014-11-05 17:08:57.251] [INFO] console - INSERT INTO T_USERS(USERNAME, USERPHONE, CRTTIME) VALUES('匿名','0000',NOW())
+[2014-11-05 17:08:57.304] [INFO] normal - GET /user
+[2014-11-05 17:09:39.913] [INFO] console - disconnect... nqk7BO5iJjOtWgluAAAG
+[2014-11-05 17:13:04.287] [INFO] console - disconnect... kn52f_WCrpOiVatvAAAH
+[2014-11-05 17:50:34.859] [INFO] console - +++++++++++++++++++++++++++++++++++++++++++++++++++
+[2014-11-05 17:50:34.860] [INFO] console - DB-CONFIG-TYPE: dev
+[2014-11-05 17:50:35.158] [INFO] console - development
+[2014-11-05 17:50:35.776] [INFO] console - h5team  listening on port 3000
